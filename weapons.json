@@ -1,0 +1,8826 @@
+[
+  {
+    "index": 1,
+    "rarity": "Mythic",
+    "DPS": "111",
+    "damage": "37",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 2,
+    "rarity": "Common",
+    "DPS": "140.4",
+    "damage": "27",
+    "fire_rate": "5.2",
+    "magazine": "25"
+  },
+  {
+    "index": 3,
+    "rarity": "Uncommon",
+    "DPS": "150.8",
+    "damage": "29",
+    "fire_rate": "5.2",
+    "magazine": "25"
+  },
+  {
+    "index": 4,
+    "rarity": "Rare",
+    "DPS": "156",
+    "damage": "30",
+    "fire_rate": "5.2",
+    "magazine": "25"
+  },
+  {
+    "index": 5,
+    "rarity": "Epic",
+    "DPS": "166.4",
+    "damage": "32",
+    "fire_rate": "5.2",
+    "magazine": "25"
+  },
+  {
+    "index": 6,
+    "rarity": "Legendary",
+    "DPS": "171.6",
+    "damage": "33",
+    "fire_rate": "5.2",
+    "magazine": "25"
+  },
+  {
+    "index": 7,
+    "rarity": "Mythic",
+    "DPS": "182",
+    "damage": "35",
+    "fire_rate": "5.2",
+    "magazine": "25"
+  },
+  {
+    "index": 8,
+    "rarity": "Rare",
+    "DPS": "65.8",
+    "damage": "94",
+    "fire_rate": "0.7",
+    "magazine": "6"
+  },
+  {
+    "index": 9,
+    "rarity": "Epic",
+    "DPS": "69.3",
+    "damage": "99",
+    "fire_rate": "0.7",
+    "magazine": "6"
+  },
+  {
+    "index": 10,
+    "rarity": "Common",
+    "DPS": "123.12",
+    "damage": "64.8",
+    "fire_rate": "1.9",
+    "magazine": "14"
+  },
+  {
+    "index": 11,
+    "rarity": "Uncommon",
+    "DPS": "129.96",
+    "damage": "68.4",
+    "fire_rate": "1.9",
+    "magazine": "14"
+  },
+  {
+    "index": 12,
+    "rarity": "Rare",
+    "DPS": "136.8",
+    "damage": "72",
+    "fire_rate": "1.9",
+    "magazine": "14"
+  },
+  {
+    "index": 13,
+    "rarity": "Epic",
+    "DPS": "143.64",
+    "damage": "75.6",
+    "fire_rate": "1.9",
+    "magazine": "14"
+  },
+  {
+    "index": 14,
+    "rarity": "Legendary",
+    "DPS": "150.48",
+    "damage": "79.2",
+    "fire_rate": "1.9",
+    "magazine": "14"
+  },
+  {
+    "index": 15,
+    "rarity": "Mythic",
+    "DPS": "157.32",
+    "damage": "82.8",
+    "fire_rate": "1.9",
+    "magazine": "14"
+  },
+  {
+    "index": 16,
+    "rarity": "Common",
+    "DPS": "115.425",
+    "damage": "85.5",
+    "fire_rate": "1.35",
+    "magazine": "2"
+  },
+  {
+    "index": 17,
+    "rarity": "Uncommon",
+    "DPS": "122.715",
+    "damage": "90.9",
+    "fire_rate": "1.35",
+    "magazine": "2"
+  },
+  {
+    "index": 18,
+    "rarity": "Rare",
+    "DPS": "128.79",
+    "damage": "95.4",
+    "fire_rate": "1.35",
+    "magazine": "2"
+  },
+  {
+    "index": 19,
+    "rarity": "Epic",
+    "DPS": "134.865",
+    "damage": "99.9",
+    "fire_rate": "1.35",
+    "magazine": "2"
+  },
+  {
+    "index": 20,
+    "rarity": "Legendary",
+    "DPS": "142.155",
+    "damage": "105.3",
+    "fire_rate": "1.35",
+    "magazine": "2"
+  },
+  {
+    "index": 21,
+    "rarity": "Mythic",
+    "DPS": "148.23",
+    "damage": "109.8",
+    "fire_rate": "1.35",
+    "magazine": "2"
+  },
+  {
+    "index": 22,
+    "rarity": "Common",
+    "DPS": "78.54",
+    "damage": "92.4",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 23,
+    "rarity": "Uncommon",
+    "DPS": "83.64",
+    "damage": "98.4",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 24,
+    "rarity": "Rare",
+    "DPS": "87.72",
+    "damage": "103.2",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 25,
+    "rarity": "Epic",
+    "DPS": "91.8",
+    "damage": "108",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 26,
+    "rarity": "Legendary",
+    "DPS": "96.9",
+    "damage": "114",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 27,
+    "rarity": "Mythic",
+    "DPS": "100.98",
+    "damage": "118.8",
+    "fire_rate": "0.85",
+    "magazine": "5"
+  },
+  {
+    "index": 28,
+    "rarity": "Common",
+    "DPS": "154.5",
+    "damage": "15",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 29,
+    "rarity": "Uncommon",
+    "DPS": "164.8",
+    "damage": "16",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 30,
+    "rarity": "Rare",
+    "DPS": "175.1",
+    "damage": "17",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 31,
+    "rarity": "Epic",
+    "DPS": "185.4",
+    "damage": "18",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 32,
+    "rarity": "Legendary",
+    "DPS": "195.7",
+    "damage": "19",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 33,
+    "rarity": "Mythic",
+    "DPS": "206",
+    "damage": "20",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 34,
+    "rarity": "Common",
+    "DPS": "155.25",
+    "damage": "23",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 35,
+    "rarity": "Uncommon",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 36,
+    "rarity": "Rare",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 37,
+    "rarity": "Epic",
+    "DPS": "182.25",
+    "damage": "27",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 38,
+    "rarity": "Legendary",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 39,
+    "rarity": "Uncommon",
+    "DPS": "91",
+    "damage": "91",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 40,
+    "rarity": "Rare",
+    "DPS": "94",
+    "damage": "94",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 41,
+    "rarity": "Epic",
+    "DPS": "97",
+    "damage": "97",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 42,
+    "rarity": "Legendary",
+    "DPS": "99",
+    "damage": "99",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 43,
+    "rarity": "Mythic",
+    "DPS": "102",
+    "damage": "102",
+    "fire_rate": "1",
+    "magazine": "2"
+  },
+  {
+    "index": 44,
+    "rarity": "Epic",
+    "DPS": "76.8",
+    "damage": "96",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 45,
+    "rarity": "Legendary",
+    "DPS": "80",
+    "damage": "100",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 46,
+    "rarity": "Mythic",
+    "DPS": "80",
+    "damage": "100",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 47,
+    "rarity": "Epic",
+    "DPS": "46.8",
+    "damage": "65",
+    "fire_rate": "0.72",
+    "magazine": "4"
+  },
+  {
+    "index": 48,
+    "rarity": "Legendary",
+    "DPS": "50.4",
+    "damage": "70",
+    "fire_rate": "0.72",
+    "magazine": "4"
+  },
+  {
+    "index": 49,
+    "rarity": "Mythic",
+    "DPS": "252",
+    "damage": "21",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 50,
+    "rarity": "Rare",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 51,
+    "rarity": "Rare",
+    "DPS": "34.2",
+    "damage": "36",
+    "fire_rate": "0.95",
+    "magazine": "5"
+  },
+  {
+    "index": 52,
+    "rarity": "Epic",
+    "DPS": "36.1",
+    "damage": "38",
+    "fire_rate": "0.95",
+    "magazine": "5"
+  },
+  {
+    "index": 53,
+    "rarity": "Legendary",
+    "DPS": "38",
+    "damage": "40",
+    "fire_rate": "0.95",
+    "magazine": "5"
+  },
+  {
+    "index": 54,
+    "rarity": "Epic",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 55,
+    "rarity": "Epic",
+    "DPS": "0",
+    "damage": "20",
+    "fire_rate": "0",
+    "magazine": "0"
+  },
+  {
+    "index": 56,
+    "rarity": "Common",
+    "DPS": "165",
+    "damage": "30",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 57,
+    "rarity": "Common",
+    "DPS": "165",
+    "damage": "30",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 58,
+    "rarity": "Common",
+    "DPS": "165",
+    "damage": "30",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 59,
+    "rarity": "Common",
+    "DPS": "165",
+    "damage": "30",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 60,
+    "rarity": "Uncommon",
+    "DPS": "170.5",
+    "damage": "31",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 61,
+    "rarity": "Uncommon",
+    "DPS": "170.5",
+    "damage": "31",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 62,
+    "rarity": "Uncommon",
+    "DPS": "44",
+    "damage": "8",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 63,
+    "rarity": "Uncommon",
+    "DPS": "170.5",
+    "damage": "31",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 64,
+    "rarity": "Uncommon",
+    "DPS": "170.5",
+    "damage": "31",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 65,
+    "rarity": "Rare",
+    "DPS": "181.5",
+    "damage": "33",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 66,
+    "rarity": "Rare",
+    "DPS": "181.5",
+    "damage": "33",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 67,
+    "rarity": "Rare",
+    "DPS": "181.5",
+    "damage": "33",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 68,
+    "rarity": "Rare",
+    "DPS": "181.5",
+    "damage": "33",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 69,
+    "rarity": "Epic",
+    "DPS": "192.5",
+    "damage": "35",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 70,
+    "rarity": "Epic",
+    "DPS": "192.5",
+    "damage": "35",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 71,
+    "rarity": "Epic",
+    "DPS": "192.5",
+    "damage": "35",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 72,
+    "rarity": "Epic",
+    "DPS": "192.5",
+    "damage": "35",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 73,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "36",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 74,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "36",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 75,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "36",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 76,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "36",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 77,
+    "rarity": "Mythic",
+    "DPS": "198",
+    "damage": "36",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 78,
+    "rarity": "Rare",
+    "DPS": "165",
+    "damage": "30",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 79,
+    "rarity": "Epic",
+    "DPS": "176",
+    "damage": "32",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 80,
+    "rarity": "Legendary",
+    "DPS": "181.5",
+    "damage": "33",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 81,
+    "rarity": "Common",
+    "DPS": "82.5",
+    "damage": "25",
+    "fire_rate": "3.3",
+    "magazine": "24"
+  },
+  {
+    "index": 82,
+    "rarity": "Uncommon",
+    "DPS": "85.2",
+    "damage": "24",
+    "fire_rate": "3.55",
+    "magazine": "24"
+  },
+  {
+    "index": 83,
+    "rarity": "Rare",
+    "DPS": "81.65",
+    "damage": "23",
+    "fire_rate": "3.55",
+    "magazine": "24"
+  },
+  {
+    "index": 84,
+    "rarity": "Epic",
+    "DPS": "78.1",
+    "damage": "22",
+    "fire_rate": "3.55",
+    "magazine": "24"
+  },
+  {
+    "index": 85,
+    "rarity": "Legendary",
+    "DPS": "82.5",
+    "damage": "22",
+    "fire_rate": "3.75",
+    "magazine": "24"
+  },
+  {
+    "index": 86,
+    "rarity": "Mythic",
+    "DPS": "86.25",
+    "damage": "23",
+    "fire_rate": "3.75",
+    "magazine": "24"
+  },
+  {
+    "index": 87,
+    "rarity": "Common",
+    "DPS": "156.6",
+    "damage": "27",
+    "fire_rate": "5.8",
+    "magazine": "20"
+  },
+  {
+    "index": 88,
+    "rarity": "Uncommon",
+    "DPS": "168.2",
+    "damage": "29",
+    "fire_rate": "5.8",
+    "magazine": "20"
+  },
+  {
+    "index": 89,
+    "rarity": "Rare",
+    "DPS": "174",
+    "damage": "30",
+    "fire_rate": "5.8",
+    "magazine": "20"
+  },
+  {
+    "index": 90,
+    "rarity": "Epic",
+    "DPS": "185.6",
+    "damage": "32",
+    "fire_rate": "5.8",
+    "magazine": "20"
+  },
+  {
+    "index": 91,
+    "rarity": "Legendary",
+    "DPS": "191.4",
+    "damage": "33",
+    "fire_rate": "5.8",
+    "magazine": "20"
+  },
+  {
+    "index": 92,
+    "rarity": "Mythic",
+    "DPS": "203",
+    "damage": "35",
+    "fire_rate": "5.8",
+    "magazine": "20"
+  },
+  {
+    "index": 93,
+    "rarity": "Common",
+    "DPS": "135",
+    "damage": "36",
+    "fire_rate": "3.75",
+    "magazine": "25"
+  },
+  {
+    "index": 94,
+    "rarity": "Uncommon",
+    "DPS": "142.5",
+    "damage": "38",
+    "fire_rate": "3.75",
+    "magazine": "25"
+  },
+  {
+    "index": 95,
+    "rarity": "Rare",
+    "DPS": "150",
+    "damage": "40",
+    "fire_rate": "3.75",
+    "magazine": "25"
+  },
+  {
+    "index": 96,
+    "rarity": "Epic",
+    "DPS": "157.5",
+    "damage": "42",
+    "fire_rate": "3.75",
+    "magazine": "25"
+  },
+  {
+    "index": 97,
+    "rarity": "Legendary",
+    "DPS": "165",
+    "damage": "44",
+    "fire_rate": "3.75",
+    "magazine": "25"
+  },
+  {
+    "index": 98,
+    "rarity": "Common",
+    "DPS": "162",
+    "damage": "18",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 99,
+    "rarity": "Uncommon",
+    "DPS": "171",
+    "damage": "19",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 100,
+    "rarity": "Rare",
+    "DPS": "180",
+    "damage": "20",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 101,
+    "rarity": "Epic",
+    "DPS": "189",
+    "damage": "21",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 102,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "22",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 103,
+    "rarity": "Mythic",
+    "DPS": "209",
+    "damage": "22",
+    "fire_rate": "9.5",
+    "magazine": "35"
+  },
+  {
+    "index": 104,
+    "rarity": "Common",
+    "DPS": "124",
+    "damage": "31",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 105,
+    "rarity": "Uncommon",
+    "DPS": "128",
+    "damage": "32",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 106,
+    "rarity": "Rare",
+    "DPS": "136",
+    "damage": "34",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 107,
+    "rarity": "Epic",
+    "DPS": "144",
+    "damage": "36",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 108,
+    "rarity": "Legendary",
+    "DPS": "148",
+    "damage": "37",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 109,
+    "rarity": "Mythic",
+    "DPS": "156",
+    "damage": "39",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 110,
+    "rarity": "Common",
+    "DPS": "67.5",
+    "damage": "27",
+    "fire_rate": "2.5",
+    "magazine": "20"
+  },
+  {
+    "index": 111,
+    "rarity": "Common",
+    "DPS": "87",
+    "damage": "29",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 112,
+    "rarity": "Uncommon",
+    "DPS": "72.5",
+    "damage": "29",
+    "fire_rate": "2.5",
+    "magazine": "20"
+  },
+  {
+    "index": 113,
+    "rarity": "Uncommon",
+    "DPS": "90",
+    "damage": "30",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 114,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "30",
+    "fire_rate": "2.5",
+    "magazine": "20"
+  },
+  {
+    "index": 115,
+    "rarity": "Rare",
+    "DPS": "96",
+    "damage": "32",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 116,
+    "rarity": "Epic",
+    "DPS": "80",
+    "damage": "32",
+    "fire_rate": "2.5",
+    "magazine": "20"
+  },
+  {
+    "index": 117,
+    "rarity": "Epic",
+    "DPS": "102",
+    "damage": "34",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 118,
+    "rarity": "Legendary",
+    "DPS": "82.5",
+    "damage": "33",
+    "fire_rate": "2.5",
+    "magazine": "20"
+  },
+  {
+    "index": 119,
+    "rarity": "Legendary",
+    "DPS": "105",
+    "damage": "35",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 120,
+    "rarity": "Legendary",
+    "DPS": "105",
+    "damage": "35",
+    "fire_rate": "3",
+    "magazine": "20"
+  },
+  {
+    "index": 121,
+    "rarity": "Mythic",
+    "DPS": "87.5",
+    "damage": "35",
+    "fire_rate": "2.5",
+    "magazine": "20"
+  },
+  {
+    "index": 122,
+    "rarity": "Mythic",
+    "DPS": "87.5",
+    "damage": "35",
+    "fire_rate": "2.5",
+    "magazine": "26"
+  },
+  {
+    "index": 123,
+    "rarity": "Common",
+    "DPS": "74.4",
+    "damage": "31",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 124,
+    "rarity": "Common",
+    "DPS": "47.25",
+    "damage": "27",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 125,
+    "rarity": "Common",
+    "DPS": "40.25",
+    "damage": "23",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 126,
+    "rarity": "Uncommon",
+    "DPS": "76.8",
+    "damage": "32",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 127,
+    "rarity": "Uncommon",
+    "DPS": "19.2",
+    "damage": "8",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 128,
+    "rarity": "Uncommon",
+    "DPS": "50.75",
+    "damage": "29",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 129,
+    "rarity": "Uncommon",
+    "DPS": "42",
+    "damage": "24",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 130,
+    "rarity": "Rare",
+    "DPS": "81.6",
+    "damage": "34",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 131,
+    "rarity": "Rare",
+    "DPS": "52.5",
+    "damage": "30",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 132,
+    "rarity": "Rare",
+    "DPS": "43.75",
+    "damage": "25",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 133,
+    "rarity": "Epic",
+    "DPS": "86.4",
+    "damage": "36",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 134,
+    "rarity": "Epic",
+    "DPS": "86.4",
+    "damage": "36",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 135,
+    "rarity": "Epic",
+    "DPS": "56",
+    "damage": "32",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 136,
+    "rarity": "Epic",
+    "DPS": "45.5",
+    "damage": "26",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 137,
+    "rarity": "Legendary",
+    "DPS": "88.8",
+    "damage": "37",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 138,
+    "rarity": "Legendary",
+    "DPS": "88.8",
+    "damage": "37",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 139,
+    "rarity": "Legendary",
+    "DPS": "57.75",
+    "damage": "33",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 140,
+    "rarity": "Legendary",
+    "DPS": "49",
+    "damage": "28",
+    "fire_rate": "1.75",
+    "magazine": "30"
+  },
+  {
+    "index": 141,
+    "rarity": "Mythic",
+    "DPS": "132.6",
+    "damage": "39",
+    "fire_rate": "3.4",
+    "magazine": "21"
+  },
+  {
+    "index": 142,
+    "rarity": "Common",
+    "DPS": "140",
+    "damage": "20",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 143,
+    "rarity": "Uncommon",
+    "DPS": "147",
+    "damage": "21",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 144,
+    "rarity": "Rare",
+    "DPS": "154",
+    "damage": "22",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 145,
+    "rarity": "Epic",
+    "DPS": "161",
+    "damage": "23",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 146,
+    "rarity": "Legendary",
+    "DPS": "168",
+    "damage": "24",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 147,
+    "rarity": "Uncommon",
+    "DPS": "64",
+    "damage": "32",
+    "fire_rate": "2",
+    "magazine": "15"
+  },
+  {
+    "index": 148,
+    "rarity": "Uncommon",
+    "DPS": "77",
+    "damage": "22",
+    "fire_rate": "3.5",
+    "magazine": "20"
+  },
+  {
+    "index": 149,
+    "rarity": "Rare",
+    "DPS": "68",
+    "damage": "34",
+    "fire_rate": "2",
+    "magazine": "15"
+  },
+  {
+    "index": 150,
+    "rarity": "Rare",
+    "DPS": "80.5",
+    "damage": "23",
+    "fire_rate": "3.5",
+    "magazine": "20"
+  },
+  {
+    "index": 151,
+    "rarity": "Epic",
+    "DPS": "72",
+    "damage": "36",
+    "fire_rate": "2",
+    "magazine": "20"
+  },
+  {
+    "index": 152,
+    "rarity": "Epic",
+    "DPS": "84",
+    "damage": "24",
+    "fire_rate": "3.5",
+    "magazine": "20"
+  },
+  {
+    "index": 153,
+    "rarity": "Legendary",
+    "DPS": "74",
+    "damage": "37",
+    "fire_rate": "2",
+    "magazine": "20"
+  },
+  {
+    "index": 154,
+    "rarity": "Legendary",
+    "DPS": "87.5",
+    "damage": "25",
+    "fire_rate": "3.5",
+    "magazine": "20"
+  },
+  {
+    "index": 155,
+    "rarity": "Common",
+    "DPS": "100",
+    "damage": "25",
+    "fire_rate": "4",
+    "magazine": "15"
+  },
+  {
+    "index": 156,
+    "rarity": "Uncommon",
+    "DPS": "108",
+    "damage": "27",
+    "fire_rate": "4",
+    "magazine": "15"
+  },
+  {
+    "index": 157,
+    "rarity": "Rare",
+    "DPS": "112",
+    "damage": "28",
+    "fire_rate": "4",
+    "magazine": "15"
+  },
+  {
+    "index": 158,
+    "rarity": "Epic",
+    "DPS": "116",
+    "damage": "29",
+    "fire_rate": "4",
+    "magazine": "15"
+  },
+  {
+    "index": 159,
+    "rarity": "Legendary",
+    "DPS": "124",
+    "damage": "31",
+    "fire_rate": "4",
+    "magazine": "15"
+  },
+  {
+    "index": 160,
+    "rarity": "Common",
+    "DPS": "176",
+    "damage": "20",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 161,
+    "rarity": "Common",
+    "DPS": "171",
+    "damage": "19",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 162,
+    "rarity": "Uncommon",
+    "DPS": "184.8",
+    "damage": "21",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 163,
+    "rarity": "Uncommon",
+    "DPS": "180",
+    "damage": "20",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 164,
+    "rarity": "Rare",
+    "DPS": "193.6",
+    "damage": "22",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 165,
+    "rarity": "Rare",
+    "DPS": "189",
+    "damage": "21",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 166,
+    "rarity": "Epic",
+    "DPS": "202.4",
+    "damage": "23",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 167,
+    "rarity": "Epic",
+    "DPS": "198",
+    "damage": "22",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 168,
+    "rarity": "Legendary",
+    "DPS": "211.2",
+    "damage": "24",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 169,
+    "rarity": "Legendary",
+    "DPS": "207",
+    "damage": "23",
+    "fire_rate": "9",
+    "magazine": "35"
+  },
+  {
+    "index": 170,
+    "rarity": "Mythic",
+    "DPS": "220",
+    "damage": "25",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 171,
+    "rarity": "Common",
+    "DPS": "94.5",
+    "damage": "27",
+    "fire_rate": "3.5",
+    "magazine": "0"
+  },
+  {
+    "index": 172,
+    "rarity": "Uncommon",
+    "DPS": "101.5",
+    "damage": "29",
+    "fire_rate": "3.5",
+    "magazine": "0"
+  },
+  {
+    "index": 173,
+    "rarity": "Rare",
+    "DPS": "105",
+    "damage": "30",
+    "fire_rate": "3.5",
+    "magazine": "0"
+  },
+  {
+    "index": 174,
+    "rarity": "Epic",
+    "DPS": "112",
+    "damage": "32",
+    "fire_rate": "3.5",
+    "magazine": "0"
+  },
+  {
+    "index": 175,
+    "rarity": "Legendary",
+    "DPS": "115.5",
+    "damage": "33",
+    "fire_rate": "3.5",
+    "magazine": "0"
+  },
+  {
+    "index": 176,
+    "rarity": "Mythic",
+    "DPS": "133",
+    "damage": "38",
+    "fire_rate": "3.5",
+    "magazine": "0"
+  },
+  {
+    "index": 177,
+    "rarity": "Common",
+    "DPS": "564.25",
+    "damage": "37",
+    "fire_rate": "15.25",
+    "magazine": "80"
+  },
+  {
+    "index": 178,
+    "rarity": "Uncommon",
+    "DPS": "168",
+    "damage": "21",
+    "fire_rate": "8",
+    "magazine": "40"
+  },
+  {
+    "index": 179,
+    "rarity": "Rare",
+    "DPS": "176",
+    "damage": "22",
+    "fire_rate": "8",
+    "magazine": "40"
+  },
+  {
+    "index": 180,
+    "rarity": "Rare",
+    "DPS": "182.6",
+    "damage": "22",
+    "fire_rate": "8.3",
+    "magazine": "30"
+  },
+  {
+    "index": 181,
+    "rarity": "Epic",
+    "DPS": "190.9",
+    "damage": "23",
+    "fire_rate": "8.3",
+    "magazine": "30"
+  },
+  {
+    "index": 182,
+    "rarity": "Legendary",
+    "DPS": "199.2",
+    "damage": "24",
+    "fire_rate": "8.3",
+    "magazine": "30"
+  },
+  {
+    "index": 183,
+    "rarity": "Common",
+    "DPS": "144",
+    "damage": "36",
+    "fire_rate": "4",
+    "magazine": "8"
+  },
+  {
+    "index": 184,
+    "rarity": "Uncommon",
+    "DPS": "152",
+    "damage": "38",
+    "fire_rate": "4",
+    "magazine": "8"
+  },
+  {
+    "index": 185,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "40",
+    "fire_rate": "4",
+    "magazine": "8"
+  },
+  {
+    "index": 186,
+    "rarity": "Epic",
+    "DPS": "168",
+    "damage": "42",
+    "fire_rate": "4",
+    "magazine": "10"
+  },
+  {
+    "index": 187,
+    "rarity": "Legendary",
+    "DPS": "176",
+    "damage": "44",
+    "fire_rate": "4",
+    "magazine": "10"
+  },
+  {
+    "index": 188,
+    "rarity": "Rare",
+    "DPS": "154",
+    "damage": "22",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 189,
+    "rarity": "Epic",
+    "DPS": "161",
+    "damage": "23",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 190,
+    "rarity": "Legendary",
+    "DPS": "168",
+    "damage": "24",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 191,
+    "rarity": "Mythic",
+    "DPS": "222",
+    "damage": "37",
+    "fire_rate": "6",
+    "magazine": "30"
+  },
+  {
+    "index": 192,
+    "rarity": "Mythic",
+    "DPS": "187",
+    "damage": "44",
+    "fire_rate": "4.25",
+    "magazine": "25"
+  },
+  {
+    "index": 193,
+    "rarity": "Mythic",
+    "DPS": "204",
+    "damage": "24",
+    "fire_rate": "8.5",
+    "magazine": "40"
+  },
+  {
+    "index": 194,
+    "rarity": "Mythic",
+    "DPS": "93.6",
+    "damage": "39",
+    "fire_rate": "2.4",
+    "magazine": "30"
+  },
+  {
+    "index": 195,
+    "rarity": "Rare",
+    "DPS": "162.8",
+    "damage": "37",
+    "fire_rate": "4.4",
+    "magazine": "15"
+  },
+  {
+    "index": 196,
+    "rarity": "Rare",
+    "DPS": "162.8",
+    "damage": "37",
+    "fire_rate": "4.4",
+    "magazine": "15"
+  },
+  {
+    "index": 197,
+    "rarity": "Epic",
+    "DPS": "171.6",
+    "damage": "39",
+    "fire_rate": "4.4",
+    "magazine": "15"
+  },
+  {
+    "index": 198,
+    "rarity": "Epic",
+    "DPS": "171.6",
+    "damage": "39",
+    "fire_rate": "4.4",
+    "magazine": "15"
+  },
+  {
+    "index": 199,
+    "rarity": "Legendary",
+    "DPS": "180.4",
+    "damage": "41",
+    "fire_rate": "4.4",
+    "magazine": "15"
+  },
+  {
+    "index": 200,
+    "rarity": "Legendary",
+    "DPS": "180.4",
+    "damage": "41",
+    "fire_rate": "4.4",
+    "magazine": "15"
+  },
+  {
+    "index": 201,
+    "rarity": "Mythic",
+    "DPS": "142.5",
+    "damage": "30",
+    "fire_rate": "4.75",
+    "magazine": "1000000"
+  },
+  {
+    "index": 202,
+    "rarity": "Uncommon",
+    "DPS": "172.5",
+    "damage": "30",
+    "fire_rate": "5.75",
+    "magazine": "30"
+  },
+  {
+    "index": 203,
+    "rarity": "Rare",
+    "DPS": "184",
+    "damage": "32",
+    "fire_rate": "5.75",
+    "magazine": "30"
+  },
+  {
+    "index": 204,
+    "rarity": "Epic",
+    "DPS": "195.5",
+    "damage": "34",
+    "fire_rate": "5.75",
+    "magazine": "30"
+  },
+  {
+    "index": 205,
+    "rarity": "Legendary",
+    "DPS": "201.25",
+    "damage": "35",
+    "fire_rate": "5.75",
+    "magazine": "30"
+  },
+  {
+    "index": 206,
+    "rarity": "Common",
+    "DPS": "135",
+    "damage": "30",
+    "fire_rate": "4.5",
+    "magazine": "20"
+  },
+  {
+    "index": 207,
+    "rarity": "Uncommon",
+    "DPS": "139.5",
+    "damage": "31",
+    "fire_rate": "4.5",
+    "magazine": "20"
+  },
+  {
+    "index": 208,
+    "rarity": "Rare",
+    "DPS": "148.5",
+    "damage": "33",
+    "fire_rate": "4.5",
+    "magazine": "20"
+  },
+  {
+    "index": 209,
+    "rarity": "Mythic",
+    "DPS": "212.75",
+    "damage": "37",
+    "fire_rate": "5.75",
+    "magazine": "30"
+  },
+  {
+    "index": 210,
+    "rarity": "Mythic",
+    "DPS": "159.6",
+    "damage": "38",
+    "fire_rate": "4.2",
+    "magazine": "16"
+  },
+  {
+    "index": 211,
+    "rarity": "Rare",
+    "DPS": "138.6",
+    "damage": "33",
+    "fire_rate": "4.2",
+    "magazine": "16"
+  },
+  {
+    "index": 212,
+    "rarity": "Epic",
+    "DPS": "147",
+    "damage": "35",
+    "fire_rate": "4.2",
+    "magazine": "16"
+  },
+  {
+    "index": 213,
+    "rarity": "Legendary",
+    "DPS": "151.2",
+    "damage": "36",
+    "fire_rate": "4.2",
+    "magazine": "16"
+  },
+  {
+    "index": 214,
+    "rarity": "Exotic",
+    "DPS": "126",
+    "damage": "30",
+    "fire_rate": "4.2",
+    "magazine": "20"
+  },
+  {
+    "index": 215,
+    "rarity": "Exotic",
+    "DPS": "126",
+    "damage": "30",
+    "fire_rate": "4.2",
+    "magazine": "20"
+  },
+  {
+    "index": 216,
+    "rarity": "Mythic",
+    "DPS": "204",
+    "damage": "24",
+    "fire_rate": "8.5",
+    "magazine": "40"
+  },
+  {
+    "index": 217,
+    "rarity": "Mythic",
+    "DPS": "209",
+    "damage": "22",
+    "fire_rate": "9.5",
+    "magazine": "35"
+  },
+  {
+    "index": 218,
+    "rarity": "Mythic",
+    "DPS": "128",
+    "damage": "32",
+    "fire_rate": "4",
+    "magazine": "15"
+  },
+  {
+    "index": 219,
+    "rarity": "Mythic",
+    "DPS": "80.5",
+    "damage": "23",
+    "fire_rate": "3.5",
+    "magazine": "28"
+  },
+  {
+    "index": 220,
+    "rarity": "Common",
+    "DPS": "112",
+    "damage": "32",
+    "fire_rate": "3.5",
+    "magazine": "25"
+  },
+  {
+    "index": 221,
+    "rarity": "Uncommon",
+    "DPS": "119",
+    "damage": "34",
+    "fire_rate": "3.5",
+    "magazine": "25"
+  },
+  {
+    "index": 222,
+    "rarity": "Rare",
+    "DPS": "126",
+    "damage": "36",
+    "fire_rate": "3.5",
+    "magazine": "25"
+  },
+  {
+    "index": 223,
+    "rarity": "Epic",
+    "DPS": "133",
+    "damage": "38",
+    "fire_rate": "3.5",
+    "magazine": "25"
+  },
+  {
+    "index": 224,
+    "rarity": "Legendary",
+    "DPS": "140",
+    "damage": "40",
+    "fire_rate": "3.5",
+    "magazine": "25"
+  },
+  {
+    "index": 225,
+    "rarity": "Exotic",
+    "DPS": "66",
+    "damage": "30",
+    "fire_rate": "2.2",
+    "magazine": "12"
+  },
+  {
+    "index": 226,
+    "rarity": "Mythic",
+    "DPS": "237.5",
+    "damage": "38",
+    "fire_rate": "6.25",
+    "magazine": "20"
+  },
+  {
+    "index": 227,
+    "rarity": "Common",
+    "DPS": "143",
+    "damage": "22",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 228,
+    "rarity": "Uncommon",
+    "DPS": "149.5",
+    "damage": "23",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 229,
+    "rarity": "Rare",
+    "DPS": "156",
+    "damage": "24",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 230,
+    "rarity": "Epic",
+    "DPS": "162.5",
+    "damage": "25",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 231,
+    "rarity": "Legendary",
+    "DPS": "169",
+    "damage": "26",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 232,
+    "rarity": "Mythic",
+    "DPS": "182",
+    "damage": "28",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 233,
+    "rarity": "Common",
+    "DPS": "154",
+    "damage": "22",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 234,
+    "rarity": "Uncommon",
+    "DPS": "161",
+    "damage": "23",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 235,
+    "rarity": "Rare",
+    "DPS": "168",
+    "damage": "24",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 236,
+    "rarity": "Epic",
+    "DPS": "175",
+    "damage": "25",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 237,
+    "rarity": "Legendary",
+    "DPS": "182",
+    "damage": "26",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 238,
+    "rarity": "Mythic",
+    "DPS": "196",
+    "damage": "28",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 239,
+    "rarity": "Mythic",
+    "DPS": "196",
+    "damage": "28",
+    "fire_rate": "7",
+    "magazine": "30"
+  },
+  {
+    "index": 240,
+    "rarity": "Mythic",
+    "DPS": "204",
+    "damage": "24",
+    "fire_rate": "8.5",
+    "magazine": "40"
+  },
+  {
+    "index": 241,
+    "rarity": "Common",
+    "DPS": "167.4",
+    "damage": "31",
+    "fire_rate": "5.4",
+    "magazine": "20"
+  },
+  {
+    "index": 242,
+    "rarity": "Uncommon",
+    "DPS": "172.8",
+    "damage": "32",
+    "fire_rate": "5.4",
+    "magazine": "20"
+  },
+  {
+    "index": 243,
+    "rarity": "Rare",
+    "DPS": "183.6",
+    "damage": "34",
+    "fire_rate": "5.4",
+    "magazine": "20"
+  },
+  {
+    "index": 244,
+    "rarity": "Epic",
+    "DPS": "194.4",
+    "damage": "36",
+    "fire_rate": "5.4",
+    "magazine": "20"
+  },
+  {
+    "index": 245,
+    "rarity": "Legendary",
+    "DPS": "199.8",
+    "damage": "37",
+    "fire_rate": "5.4",
+    "magazine": "20"
+  },
+  {
+    "index": 246,
+    "rarity": "Mythic",
+    "DPS": "210.6",
+    "damage": "39",
+    "fire_rate": "5.4",
+    "magazine": "20"
+  },
+  {
+    "index": 247,
+    "rarity": "Common",
+    "DPS": "429",
+    "damage": "39",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 248,
+    "rarity": "Common",
+    "DPS": "186.3",
+    "damage": "23",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 249,
+    "rarity": "Common",
+    "DPS": "194.4",
+    "damage": "24",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 250,
+    "rarity": "Uncommon",
+    "DPS": "210.6",
+    "damage": "26",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 251,
+    "rarity": "Uncommon",
+    "DPS": "194.4",
+    "damage": "24",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 252,
+    "rarity": "Rare",
+    "DPS": "218.7",
+    "damage": "27",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 253,
+    "rarity": "Rare",
+    "DPS": "218.7",
+    "damage": "27",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 254,
+    "rarity": "Rare",
+    "DPS": "202.5",
+    "damage": "25",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 255,
+    "rarity": "Rare",
+    "DPS": "202.5",
+    "damage": "25",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 256,
+    "rarity": "Epic",
+    "DPS": "226.8",
+    "damage": "28",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 257,
+    "rarity": "Epic",
+    "DPS": "210.6",
+    "damage": "26",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 258,
+    "rarity": "Legendary",
+    "DPS": "243",
+    "damage": "30",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 259,
+    "rarity": "Legendary",
+    "DPS": "226.8",
+    "damage": "28",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 260,
+    "rarity": "Legendary",
+    "DPS": "226.8",
+    "damage": "28",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 261,
+    "rarity": "Mythic",
+    "DPS": "251.1",
+    "damage": "31",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 262,
+    "rarity": "Mythic",
+    "DPS": "234.9",
+    "damage": "29",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 263,
+    "rarity": "Exotic",
+    "DPS": "218.7",
+    "damage": "27",
+    "fire_rate": "8.1",
+    "magazine": "25"
+  },
+  {
+    "index": 264,
+    "rarity": "Common",
+    "DPS": "390",
+    "damage": "40",
+    "fire_rate": "9.75",
+    "magazine": "25"
+  },
+  {
+    "index": 265,
+    "rarity": "Common",
+    "DPS": "145",
+    "damage": "29",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 266,
+    "rarity": "Common",
+    "DPS": "145",
+    "damage": "29",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 267,
+    "rarity": "Uncommon",
+    "DPS": "150",
+    "damage": "30",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 268,
+    "rarity": "Uncommon",
+    "DPS": "150",
+    "damage": "30",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 269,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "32",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 270,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "32",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 271,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "32",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 272,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "32",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 273,
+    "rarity": "Epic",
+    "DPS": "170",
+    "damage": "34",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 274,
+    "rarity": "Epic",
+    "DPS": "170",
+    "damage": "34",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 275,
+    "rarity": "Legendary",
+    "DPS": "175",
+    "damage": "35",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 276,
+    "rarity": "Legendary",
+    "DPS": "175",
+    "damage": "35",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 277,
+    "rarity": "Mythic",
+    "DPS": "185",
+    "damage": "37",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 278,
+    "rarity": "Mythic",
+    "DPS": "185",
+    "damage": "37",
+    "fire_rate": "5",
+    "magazine": "28"
+  },
+  {
+    "index": 279,
+    "rarity": "Common",
+    "DPS": "341.25",
+    "damage": "65",
+    "fire_rate": "5.25",
+    "magazine": "12"
+  },
+  {
+    "index": 280,
+    "rarity": "Common",
+    "DPS": "140",
+    "damage": "35",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 281,
+    "rarity": "Common",
+    "DPS": "126.4",
+    "damage": "32",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 282,
+    "rarity": "Uncommon",
+    "DPS": "130.35",
+    "damage": "33",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 283,
+    "rarity": "Uncommon",
+    "DPS": "148",
+    "damage": "37",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 284,
+    "rarity": "Rare",
+    "DPS": "138.25",
+    "damage": "35",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 285,
+    "rarity": "Rare",
+    "DPS": "138.25",
+    "damage": "35",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 286,
+    "rarity": "Rare",
+    "DPS": "156",
+    "damage": "39",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 287,
+    "rarity": "Rare",
+    "DPS": "156",
+    "damage": "39",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 288,
+    "rarity": "Epic",
+    "DPS": "146.15",
+    "damage": "37",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 289,
+    "rarity": "Epic",
+    "DPS": "164",
+    "damage": "41",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 290,
+    "rarity": "Legendary",
+    "DPS": "154.05",
+    "damage": "39",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 291,
+    "rarity": "Legendary",
+    "DPS": "172",
+    "damage": "43",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 292,
+    "rarity": "Mythic",
+    "DPS": "158",
+    "damage": "40",
+    "fire_rate": "3.95",
+    "magazine": "25"
+  },
+  {
+    "index": 293,
+    "rarity": "Mythic",
+    "DPS": "180",
+    "damage": "45",
+    "fire_rate": "4",
+    "magazine": "25"
+  },
+  {
+    "index": 294,
+    "rarity": "Common",
+    "DPS": "172.8",
+    "damage": "24",
+    "fire_rate": "7.2",
+    "magazine": "35"
+  },
+  {
+    "index": 295,
+    "rarity": "Uncommon",
+    "DPS": "187.2",
+    "damage": "26",
+    "fire_rate": "7.2",
+    "magazine": "35"
+  },
+  {
+    "index": 296,
+    "rarity": "Rare",
+    "DPS": "194.4",
+    "damage": "27",
+    "fire_rate": "7.2",
+    "magazine": "35"
+  },
+  {
+    "index": 297,
+    "rarity": "Epic",
+    "DPS": "201.6",
+    "damage": "28",
+    "fire_rate": "7.2",
+    "magazine": "35"
+  },
+  {
+    "index": 298,
+    "rarity": "Legendary",
+    "DPS": "216",
+    "damage": "30",
+    "fire_rate": "7.2",
+    "magazine": "35"
+  },
+  {
+    "index": 299,
+    "rarity": "Mythic",
+    "DPS": "223.2",
+    "damage": "31",
+    "fire_rate": "7.2",
+    "magazine": "35"
+  },
+  {
+    "index": 300,
+    "rarity": "Mythic",
+    "DPS": "220",
+    "damage": "25",
+    "fire_rate": "8.8",
+    "magazine": "28"
+  },
+  {
+    "index": 301,
+    "rarity": "Mythic",
+    "DPS": "212.5",
+    "damage": "25",
+    "fire_rate": "8.5",
+    "magazine": "30"
+  },
+  {
+    "index": 302,
+    "rarity": "Mythic",
+    "DPS": "250",
+    "damage": "25",
+    "fire_rate": "10",
+    "magazine": "40"
+  },
+  {
+    "index": 303,
+    "rarity": "Mythic",
+    "DPS": "250",
+    "damage": "25",
+    "fire_rate": "10",
+    "magazine": "40"
+  },
+  {
+    "index": 304,
+    "rarity": "Mythic",
+    "DPS": "187",
+    "damage": "44",
+    "fire_rate": "4.25",
+    "magazine": "25"
+  },
+  {
+    "index": 305,
+    "rarity": "Mythic",
+    "DPS": "165",
+    "damage": "44",
+    "fire_rate": "3.75",
+    "magazine": "25"
+  },
+  {
+    "index": 306,
+    "rarity": "Common",
+    "DPS": "163.9",
+    "damage": "22",
+    "fire_rate": "7.45",
+    "magazine": "28"
+  },
+  {
+    "index": 307,
+    "rarity": "Uncommon",
+    "DPS": "171.35",
+    "damage": "23",
+    "fire_rate": "7.45",
+    "magazine": "28"
+  },
+  {
+    "index": 308,
+    "rarity": "Rare",
+    "DPS": "178.8",
+    "damage": "24",
+    "fire_rate": "7.45",
+    "magazine": "28"
+  },
+  {
+    "index": 309,
+    "rarity": "Epic",
+    "DPS": "186.25",
+    "damage": "25",
+    "fire_rate": "7.45",
+    "magazine": "28"
+  },
+  {
+    "index": 310,
+    "rarity": "Legendary",
+    "DPS": "193.7",
+    "damage": "26",
+    "fire_rate": "7.45",
+    "magazine": "28"
+  },
+  {
+    "index": 311,
+    "rarity": "Mythic",
+    "DPS": "212.8",
+    "damage": "28",
+    "fire_rate": "7.6",
+    "magazine": "28"
+  },
+  {
+    "index": 312,
+    "rarity": "Common",
+    "DPS": "48.45",
+    "damage": "57",
+    "fire_rate": "0.85",
+    "magazine": "8"
+  },
+  {
+    "index": 313,
+    "rarity": "Uncommon",
+    "DPS": "51",
+    "damage": "60",
+    "fire_rate": "0.85",
+    "magazine": "8"
+  },
+  {
+    "index": 314,
+    "rarity": "Rare",
+    "DPS": "53.55",
+    "damage": "63",
+    "fire_rate": "0.85",
+    "magazine": "8"
+  },
+  {
+    "index": 315,
+    "rarity": "Epic",
+    "DPS": "56.1",
+    "damage": "66",
+    "fire_rate": "0.85",
+    "magazine": "8"
+  },
+  {
+    "index": 316,
+    "rarity": "Legendary",
+    "DPS": "58.65",
+    "damage": "69",
+    "fire_rate": "0.85",
+    "magazine": "8"
+  },
+  {
+    "index": 317,
+    "rarity": "Mythic",
+    "DPS": "61.2",
+    "damage": "72",
+    "fire_rate": "0.85",
+    "magazine": "8"
+  },
+  {
+    "index": 318,
+    "rarity": "Common",
+    "DPS": "94.5",
+    "damage": "63",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 319,
+    "rarity": "Common",
+    "DPS": "108",
+    "damage": "72",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 320,
+    "rarity": "Common",
+    "DPS": "115.5",
+    "damage": "77",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 321,
+    "rarity": "Uncommon",
+    "DPS": "100.5",
+    "damage": "67",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 322,
+    "rarity": "Uncommon",
+    "DPS": "114",
+    "damage": "76",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 323,
+    "rarity": "Uncommon",
+    "DPS": "121.5",
+    "damage": "81",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 324,
+    "rarity": "Rare",
+    "DPS": "105",
+    "damage": "70",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 325,
+    "rarity": "Rare",
+    "DPS": "120",
+    "damage": "80",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 326,
+    "rarity": "Rare",
+    "DPS": "127.5",
+    "damage": "85",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 327,
+    "rarity": "Epic",
+    "DPS": "111",
+    "damage": "74",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 328,
+    "rarity": "Epic",
+    "DPS": "126",
+    "damage": "84",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 329,
+    "rarity": "Epic",
+    "DPS": "133.5",
+    "damage": "89",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 330,
+    "rarity": "Legendary",
+    "DPS": "132",
+    "damage": "88",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 331,
+    "rarity": "Legendary",
+    "DPS": "141",
+    "damage": "94",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 332,
+    "rarity": "Common",
+    "DPS": "123",
+    "damage": "82",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 333,
+    "rarity": "Uncommon",
+    "DPS": "129",
+    "damage": "86",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 334,
+    "rarity": "Rare",
+    "DPS": "136.5",
+    "damage": "91",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 335,
+    "rarity": "Epic",
+    "DPS": "144",
+    "damage": "96",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 336,
+    "rarity": "Legendary",
+    "DPS": "150",
+    "damage": "100",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 337,
+    "rarity": "Mythic",
+    "DPS": "157.5",
+    "damage": "105",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 338,
+    "rarity": "Common",
+    "DPS": "88.92",
+    "damage": "93.6",
+    "fire_rate": "0.95",
+    "magazine": "6"
+  },
+  {
+    "index": 339,
+    "rarity": "Uncommon",
+    "DPS": "93.195",
+    "damage": "98.1",
+    "fire_rate": "0.95",
+    "magazine": "6"
+  },
+  {
+    "index": 340,
+    "rarity": "Rare",
+    "DPS": "98.325",
+    "damage": "103.5",
+    "fire_rate": "0.95",
+    "magazine": "6"
+  },
+  {
+    "index": 341,
+    "rarity": "Epic",
+    "DPS": "103.455",
+    "damage": "108.9",
+    "fire_rate": "0.95",
+    "magazine": "6"
+  },
+  {
+    "index": 342,
+    "rarity": "Legendary",
+    "DPS": "108.585",
+    "damage": "114.3",
+    "fire_rate": "0.95",
+    "magazine": "6"
+  },
+  {
+    "index": 343,
+    "rarity": "Common",
+    "DPS": "68.85",
+    "damage": "81",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 344,
+    "rarity": "Uncommon",
+    "DPS": "73.1",
+    "damage": "86",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 345,
+    "rarity": "Rare",
+    "DPS": "76.5",
+    "damage": "90",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 346,
+    "rarity": "Epic",
+    "DPS": "80.75",
+    "damage": "95",
+    "fire_rate": "0.85",
+    "magazine": "5"
+  },
+  {
+    "index": 347,
+    "rarity": "Legendary",
+    "DPS": "84.15",
+    "damage": "99",
+    "fire_rate": "0.85",
+    "magazine": "5"
+  },
+  {
+    "index": 348,
+    "rarity": "Common",
+    "DPS": "58.8",
+    "damage": "84",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 349,
+    "rarity": "Common",
+    "DPS": "58.8",
+    "damage": "84",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 350,
+    "rarity": "Common",
+    "DPS": "64.4",
+    "damage": "92",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 351,
+    "rarity": "Uncommon",
+    "DPS": "64.4",
+    "damage": "92",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 352,
+    "rarity": "Uncommon",
+    "DPS": "64.4",
+    "damage": "92",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 353,
+    "rarity": "Uncommon",
+    "DPS": "70.7",
+    "damage": "101",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 354,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "100",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 355,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "100",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 356,
+    "rarity": "Rare",
+    "DPS": "77",
+    "damage": "110",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 357,
+    "rarity": "Epic",
+    "DPS": "75.6",
+    "damage": "108",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 358,
+    "rarity": "Epic",
+    "DPS": "75.6",
+    "damage": "108",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 359,
+    "rarity": "Epic",
+    "DPS": "83.3",
+    "damage": "119",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 360,
+    "rarity": "Legendary",
+    "DPS": "81.2",
+    "damage": "116",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 361,
+    "rarity": "Legendary",
+    "DPS": "81.2",
+    "damage": "116",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 362,
+    "rarity": "Legendary",
+    "DPS": "89.6",
+    "damage": "128",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 363,
+    "rarity": "Common",
+    "DPS": "103.7",
+    "damage": "61",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 364,
+    "rarity": "Uncommon",
+    "DPS": "91.8",
+    "damage": "54",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 365,
+    "rarity": "Uncommon",
+    "DPS": "110.5",
+    "damage": "65",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 366,
+    "rarity": "Rare",
+    "DPS": "96.9",
+    "damage": "57",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 367,
+    "rarity": "Rare",
+    "DPS": "115.6",
+    "damage": "68",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 368,
+    "rarity": "Epic",
+    "DPS": "102",
+    "damage": "60",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 369,
+    "rarity": "Epic",
+    "DPS": "120.7",
+    "damage": "71",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 370,
+    "rarity": "Legendary",
+    "DPS": "107.1",
+    "damage": "63",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 371,
+    "rarity": "Legendary",
+    "DPS": "127.5",
+    "damage": "75",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 372,
+    "rarity": "Epic",
+    "DPS": "158",
+    "damage": "158",
+    "fire_rate": "1",
+    "magazine": "4"
+  },
+  {
+    "index": 373,
+    "rarity": "Legendary",
+    "DPS": "165",
+    "damage": "165",
+    "fire_rate": "1",
+    "magazine": "4"
+  },
+  {
+    "index": 374,
+    "rarity": "Epic",
+    "DPS": "216.6",
+    "damage": "114",
+    "fire_rate": "1.9",
+    "magazine": "2"
+  },
+  {
+    "index": 375,
+    "rarity": "Epic",
+    "DPS": "224.2",
+    "damage": "118",
+    "fire_rate": "1.9",
+    "magazine": "2"
+  },
+  {
+    "index": 376,
+    "rarity": "Legendary",
+    "DPS": "228",
+    "damage": "120",
+    "fire_rate": "1.9",
+    "magazine": "2"
+  },
+  {
+    "index": 377,
+    "rarity": "Legendary",
+    "DPS": "233.7",
+    "damage": "123",
+    "fire_rate": "1.9",
+    "magazine": "2"
+  },
+  {
+    "index": 378,
+    "rarity": "Common",
+    "DPS": "79.38",
+    "damage": "75.6",
+    "fire_rate": "1.05",
+    "magazine": "4"
+  },
+  {
+    "index": 379,
+    "rarity": "Uncommon",
+    "DPS": "83.16",
+    "damage": "79.2",
+    "fire_rate": "1.05",
+    "magazine": "4"
+  },
+  {
+    "index": 380,
+    "rarity": "Rare",
+    "DPS": "87.885",
+    "damage": "83.7",
+    "fire_rate": "1.05",
+    "magazine": "4"
+  },
+  {
+    "index": 381,
+    "rarity": "Epic",
+    "DPS": "92.61",
+    "damage": "88.2",
+    "fire_rate": "1.05",
+    "magazine": "4"
+  },
+  {
+    "index": 382,
+    "rarity": "Legendary",
+    "DPS": "96.39",
+    "damage": "91.8",
+    "fire_rate": "1.05",
+    "magazine": "4"
+  },
+  {
+    "index": 383,
+    "rarity": "Mythic",
+    "DPS": "101.115",
+    "damage": "96.3",
+    "fire_rate": "1.05",
+    "magazine": "4"
+  },
+  {
+    "index": 384,
+    "rarity": "Common",
+    "DPS": "126",
+    "damage": "84",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 385,
+    "rarity": "Uncommon",
+    "DPS": "133.2",
+    "damage": "88.8",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 386,
+    "rarity": "Rare",
+    "DPS": "140.4",
+    "damage": "93.6",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 387,
+    "rarity": "Epic",
+    "DPS": "147.6",
+    "damage": "98.4",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 388,
+    "rarity": "Legendary",
+    "DPS": "154.8",
+    "damage": "103.2",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 389,
+    "rarity": "Mythic",
+    "DPS": "162",
+    "damage": "108",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 390,
+    "rarity": "Common",
+    "DPS": "172.8",
+    "damage": "57.6",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 391,
+    "rarity": "Common",
+    "DPS": "151.2",
+    "damage": "50.4",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 392,
+    "rarity": "Uncommon",
+    "DPS": "180",
+    "damage": "60",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 393,
+    "rarity": "Uncommon",
+    "DPS": "162",
+    "damage": "54",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 394,
+    "rarity": "Rare",
+    "DPS": "190.8",
+    "damage": "63.6",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 395,
+    "rarity": "Rare",
+    "DPS": "169.2",
+    "damage": "56.4",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 396,
+    "rarity": "Epic",
+    "DPS": "201.6",
+    "damage": "67.2",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 397,
+    "rarity": "Epic",
+    "DPS": "176.4",
+    "damage": "58.8",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 398,
+    "rarity": "Legendary",
+    "DPS": "208.8",
+    "damage": "69.6",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 399,
+    "rarity": "Legendary",
+    "DPS": "187.2",
+    "damage": "62.4",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 400,
+    "rarity": "Common",
+    "DPS": "63",
+    "damage": "63",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 401,
+    "rarity": "Common",
+    "DPS": "107.9",
+    "damage": "83",
+    "fire_rate": "1.3",
+    "magazine": "5"
+  },
+  {
+    "index": 402,
+    "rarity": "Uncommon",
+    "DPS": "67",
+    "damage": "67",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 403,
+    "rarity": "Uncommon",
+    "DPS": "113.1",
+    "damage": "87",
+    "fire_rate": "1.3",
+    "magazine": "5"
+  },
+  {
+    "index": 404,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 405,
+    "rarity": "Rare",
+    "DPS": "119.6",
+    "damage": "92",
+    "fire_rate": "1.3",
+    "magazine": "5"
+  },
+  {
+    "index": 406,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 407,
+    "rarity": "Epic",
+    "DPS": "74",
+    "damage": "74",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 408,
+    "rarity": "Epic",
+    "DPS": "126.1",
+    "damage": "97",
+    "fire_rate": "1.3",
+    "magazine": "5"
+  },
+  {
+    "index": 409,
+    "rarity": "Epic",
+    "DPS": "74",
+    "damage": "74",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 410,
+    "rarity": "Legendary",
+    "DPS": "77",
+    "damage": "77",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 411,
+    "rarity": "Legendary",
+    "DPS": "131.3",
+    "damage": "101",
+    "fire_rate": "1.3",
+    "magazine": "5"
+  },
+  {
+    "index": 412,
+    "rarity": "Legendary",
+    "DPS": "77",
+    "damage": "77",
+    "fire_rate": "1",
+    "magazine": "7"
+  },
+  {
+    "index": 413,
+    "rarity": "Common",
+    "DPS": "59.28",
+    "damage": "91.2",
+    "fire_rate": "0.65",
+    "magazine": "5"
+  },
+  {
+    "index": 414,
+    "rarity": "Uncommon",
+    "DPS": "62.4",
+    "damage": "96",
+    "fire_rate": "0.65",
+    "magazine": "5"
+  },
+  {
+    "index": 415,
+    "rarity": "Rare",
+    "DPS": "65.52",
+    "damage": "100.8",
+    "fire_rate": "0.65",
+    "magazine": "5"
+  },
+  {
+    "index": 416,
+    "rarity": "Epic",
+    "DPS": "68.64",
+    "damage": "105.6",
+    "fire_rate": "0.65",
+    "magazine": "5"
+  },
+  {
+    "index": 417,
+    "rarity": "Legendary",
+    "DPS": "71.76",
+    "damage": "110.4",
+    "fire_rate": "0.65",
+    "magazine": "5"
+  },
+  {
+    "index": 418,
+    "rarity": "Mythic",
+    "DPS": "75.66",
+    "damage": "116.4",
+    "fire_rate": "0.65",
+    "magazine": "5"
+  },
+  {
+    "index": 419,
+    "rarity": "Exotic",
+    "DPS": "233.7",
+    "damage": "123",
+    "fire_rate": "1.9",
+    "magazine": "2"
+  },
+  {
+    "index": 420,
+    "rarity": "Mythic",
+    "DPS": "88.4",
+    "damage": "104",
+    "fire_rate": "0.85",
+    "magazine": "5"
+  },
+  {
+    "index": 421,
+    "rarity": "Mythic",
+    "DPS": "88.4",
+    "damage": "104",
+    "fire_rate": "0.85",
+    "magazine": "5"
+  },
+  {
+    "index": 422,
+    "rarity": "Mythic",
+    "DPS": "146.05",
+    "damage": "63.5",
+    "fire_rate": "2.3",
+    "magazine": "12"
+  },
+  {
+    "index": 423,
+    "rarity": "Uncommon",
+    "DPS": "120.75",
+    "damage": "52.5",
+    "fire_rate": "2.3",
+    "magazine": "12"
+  },
+  {
+    "index": 424,
+    "rarity": "Rare",
+    "DPS": "126.5",
+    "damage": "55",
+    "fire_rate": "2.3",
+    "magazine": "12"
+  },
+  {
+    "index": 425,
+    "rarity": "Epic",
+    "DPS": "133.4",
+    "damage": "58",
+    "fire_rate": "2.3",
+    "magazine": "12"
+  },
+  {
+    "index": 426,
+    "rarity": "Legendary",
+    "DPS": "139.15",
+    "damage": "60.5",
+    "fire_rate": "2.3",
+    "magazine": "12"
+  },
+  {
+    "index": 427,
+    "rarity": "Common",
+    "DPS": "110.25",
+    "damage": "88.2",
+    "fire_rate": "1.25",
+    "magazine": "3"
+  },
+  {
+    "index": 428,
+    "rarity": "Uncommon",
+    "DPS": "116.375",
+    "damage": "93.1",
+    "fire_rate": "1.25",
+    "magazine": "3"
+  },
+  {
+    "index": 429,
+    "rarity": "Rare",
+    "DPS": "122.5",
+    "damage": "98",
+    "fire_rate": "1.25",
+    "magazine": "3"
+  },
+  {
+    "index": 430,
+    "rarity": "Common",
+    "DPS": "329.4",
+    "damage": "109.8",
+    "fire_rate": "3",
+    "magazine": "1"
+  },
+  {
+    "index": 431,
+    "rarity": "Uncommon",
+    "DPS": "345.6",
+    "damage": "115.2",
+    "fire_rate": "3",
+    "magazine": "1"
+  },
+  {
+    "index": 432,
+    "rarity": "Rare",
+    "DPS": "364.5",
+    "damage": "121.5",
+    "fire_rate": "3",
+    "magazine": "1"
+  },
+  {
+    "index": 433,
+    "rarity": "Epic",
+    "DPS": "383.4",
+    "damage": "127.8",
+    "fire_rate": "3",
+    "magazine": "1"
+  },
+  {
+    "index": 434,
+    "rarity": "Legendary",
+    "DPS": "402.3",
+    "damage": "134.1",
+    "fire_rate": "3",
+    "magazine": "1"
+  },
+  {
+    "index": 435,
+    "rarity": "Common",
+    "DPS": "107.8",
+    "damage": "77",
+    "fire_rate": "1.4",
+    "magazine": "6"
+  },
+  {
+    "index": 436,
+    "rarity": "Uncommon",
+    "DPS": "113.4",
+    "damage": "81",
+    "fire_rate": "1.4",
+    "magazine": "6"
+  },
+  {
+    "index": 437,
+    "rarity": "Rare",
+    "DPS": "119",
+    "damage": "85",
+    "fire_rate": "1.4",
+    "magazine": "6"
+  },
+  {
+    "index": 438,
+    "rarity": "Epic",
+    "DPS": "124.6",
+    "damage": "89",
+    "fire_rate": "1.4",
+    "magazine": "6"
+  },
+  {
+    "index": 439,
+    "rarity": "Legendary",
+    "DPS": "131.6",
+    "damage": "94",
+    "fire_rate": "1.4",
+    "magazine": "6"
+  },
+  {
+    "index": 440,
+    "rarity": "Common",
+    "DPS": "70.224",
+    "damage": "92.4",
+    "fire_rate": "0.76",
+    "magazine": "8"
+  },
+  {
+    "index": 441,
+    "rarity": "Uncommon",
+    "DPS": "75.24",
+    "damage": "99",
+    "fire_rate": "0.76",
+    "magazine": "8"
+  },
+  {
+    "index": 442,
+    "rarity": "Rare",
+    "DPS": "80.256",
+    "damage": "105.6",
+    "fire_rate": "0.76",
+    "magazine": "8"
+  },
+  {
+    "index": 443,
+    "rarity": "Epic",
+    "DPS": "85.272",
+    "damage": "112.2",
+    "fire_rate": "0.76",
+    "magazine": "8"
+  },
+  {
+    "index": 444,
+    "rarity": "Legendary",
+    "DPS": "90.288",
+    "damage": "118.8",
+    "fire_rate": "0.76",
+    "magazine": "8"
+  },
+  {
+    "index": 445,
+    "rarity": "Exotic",
+    "DPS": "106",
+    "damage": "106",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 446,
+    "rarity": "Exotic",
+    "DPS": "137.2",
+    "damage": "98",
+    "fire_rate": "1.4",
+    "magazine": "6"
+  },
+  {
+    "index": 447,
+    "rarity": "Common",
+    "DPS": "81",
+    "damage": "108",
+    "fire_rate": "0.75",
+    "magazine": "6"
+  },
+  {
+    "index": 448,
+    "rarity": "Uncommon",
+    "DPS": "85.5",
+    "damage": "114",
+    "fire_rate": "0.75",
+    "magazine": "6"
+  },
+  {
+    "index": 449,
+    "rarity": "Rare",
+    "DPS": "90",
+    "damage": "120",
+    "fire_rate": "0.75",
+    "magazine": "6"
+  },
+  {
+    "index": 450,
+    "rarity": "Epic",
+    "DPS": "94.5",
+    "damage": "126",
+    "fire_rate": "0.75",
+    "magazine": "6"
+  },
+  {
+    "index": 451,
+    "rarity": "Legendary",
+    "DPS": "99",
+    "damage": "132",
+    "fire_rate": "0.75",
+    "magazine": "6"
+  },
+  {
+    "index": 452,
+    "rarity": "Mythic",
+    "DPS": "103.5",
+    "damage": "138",
+    "fire_rate": "0.75",
+    "magazine": "6"
+  },
+  {
+    "index": 453,
+    "rarity": "Mythic",
+    "DPS": "194.4",
+    "damage": "64.8",
+    "fire_rate": "3",
+    "magazine": "12"
+  },
+  {
+    "index": 454,
+    "rarity": "Uncommon",
+    "DPS": "69.768",
+    "damage": "102.6",
+    "fire_rate": "0.68",
+    "magazine": "4"
+  },
+  {
+    "index": 455,
+    "rarity": "Rare",
+    "DPS": "73.44",
+    "damage": "108",
+    "fire_rate": "0.68",
+    "magazine": "4"
+  },
+  {
+    "index": 456,
+    "rarity": "Epic",
+    "DPS": "77.112",
+    "damage": "113.4",
+    "fire_rate": "0.68",
+    "magazine": "4"
+  },
+  {
+    "index": 457,
+    "rarity": "Legendary",
+    "DPS": "80.784",
+    "damage": "118.8",
+    "fire_rate": "0.68",
+    "magazine": "4"
+  },
+  {
+    "index": 458,
+    "rarity": "Mythic",
+    "DPS": "193.6",
+    "damage": "44",
+    "fire_rate": "4.4",
+    "magazine": "1000000"
+  },
+  {
+    "index": 459,
+    "rarity": "Common",
+    "DPS": "91.8",
+    "damage": "76.5",
+    "fire_rate": "1.2",
+    "magazine": "6"
+  },
+  {
+    "index": 460,
+    "rarity": "Uncommon",
+    "DPS": "96.12",
+    "damage": "80.1",
+    "fire_rate": "1.2",
+    "magazine": "6"
+  },
+  {
+    "index": 461,
+    "rarity": "Rare",
+    "DPS": "101.52",
+    "damage": "84.6",
+    "fire_rate": "1.2",
+    "magazine": "6"
+  },
+  {
+    "index": 462,
+    "rarity": "Epic",
+    "DPS": "106.92",
+    "damage": "89.1",
+    "fire_rate": "1.2",
+    "magazine": "6"
+  },
+  {
+    "index": 463,
+    "rarity": "Legendary",
+    "DPS": "111.24",
+    "damage": "92.7",
+    "fire_rate": "1.2",
+    "magazine": "6"
+  },
+  {
+    "index": 464,
+    "rarity": "Legendary",
+    "DPS": "116.64",
+    "damage": "97.2",
+    "fire_rate": "1.2",
+    "magazine": "6"
+  },
+  {
+    "index": 465,
+    "rarity": "Rare",
+    "DPS": "119.6",
+    "damage": "92",
+    "fire_rate": "1.3",
+    "magazine": "4"
+  },
+  {
+    "index": 466,
+    "rarity": "Epic",
+    "DPS": "126.1",
+    "damage": "97",
+    "fire_rate": "1.3",
+    "magazine": "4"
+  },
+  {
+    "index": 467,
+    "rarity": "Legendary",
+    "DPS": "131.3",
+    "damage": "101",
+    "fire_rate": "1.3",
+    "magazine": "4"
+  },
+  {
+    "index": 468,
+    "rarity": "Mythic",
+    "DPS": "137.8",
+    "damage": "106",
+    "fire_rate": "1.3",
+    "magazine": "4"
+  },
+  {
+    "index": 469,
+    "rarity": "Common",
+    "DPS": "206.25",
+    "damage": "75",
+    "fire_rate": "2.75",
+    "magazine": "8"
+  },
+  {
+    "index": 470,
+    "rarity": "Common",
+    "DPS": "134.2",
+    "damage": "61",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 471,
+    "rarity": "Uncommon",
+    "DPS": "143",
+    "damage": "65",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 472,
+    "rarity": "Rare",
+    "DPS": "149.6",
+    "damage": "68",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 473,
+    "rarity": "Rare",
+    "DPS": "149.6",
+    "damage": "68",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 474,
+    "rarity": "Epic",
+    "DPS": "156.2",
+    "damage": "71",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 475,
+    "rarity": "Legendary",
+    "DPS": "165",
+    "damage": "75",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 476,
+    "rarity": "Mythic",
+    "DPS": "171.6",
+    "damage": "78",
+    "fire_rate": "2.2",
+    "magazine": "8"
+  },
+  {
+    "index": 477,
+    "rarity": "Common",
+    "DPS": "110",
+    "damage": "125",
+    "fire_rate": "0.88",
+    "magazine": "6"
+  },
+  {
+    "index": 478,
+    "rarity": "Common",
+    "DPS": "59.5",
+    "damage": "85",
+    "fire_rate": "0.7",
+    "magazine": "6"
+  },
+  {
+    "index": 479,
+    "rarity": "Uncommon",
+    "DPS": "62.3",
+    "damage": "89",
+    "fire_rate": "0.7",
+    "magazine": "6"
+  },
+  {
+    "index": 480,
+    "rarity": "Legendary",
+    "DPS": "72.1",
+    "damage": "103",
+    "fire_rate": "0.7",
+    "magazine": "6"
+  },
+  {
+    "index": 481,
+    "rarity": "Mythic",
+    "DPS": "75.6",
+    "damage": "108",
+    "fire_rate": "0.7",
+    "magazine": "6"
+  },
+  {
+    "index": 482,
+    "rarity": "Common",
+    "DPS": "129.2",
+    "damage": "76",
+    "fire_rate": "1.7",
+    "magazine": "3"
+  },
+  {
+    "index": 483,
+    "rarity": "Uncommon",
+    "DPS": "136",
+    "damage": "80",
+    "fire_rate": "1.7",
+    "magazine": "3"
+  },
+  {
+    "index": 484,
+    "rarity": "Rare",
+    "DPS": "142.8",
+    "damage": "84",
+    "fire_rate": "1.7",
+    "magazine": "3"
+  },
+  {
+    "index": 485,
+    "rarity": "Epic",
+    "DPS": "149.6",
+    "damage": "88",
+    "fire_rate": "1.7",
+    "magazine": "3"
+  },
+  {
+    "index": 486,
+    "rarity": "Legendary",
+    "DPS": "156.4",
+    "damage": "92",
+    "fire_rate": "1.7",
+    "magazine": "3"
+  },
+  {
+    "index": 487,
+    "rarity": "Mythic",
+    "DPS": "164.9",
+    "damage": "97",
+    "fire_rate": "1.7",
+    "magazine": "3"
+  },
+  {
+    "index": 488,
+    "rarity": "Mythic",
+    "DPS": "132.6",
+    "damage": "78",
+    "fire_rate": "1.7",
+    "magazine": "8"
+  },
+  {
+    "index": 489,
+    "rarity": "Common",
+    "DPS": "119.232",
+    "damage": "82.8",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 490,
+    "rarity": "Uncommon",
+    "DPS": "125.712",
+    "damage": "87.3",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 491,
+    "rarity": "Rare",
+    "DPS": "132.192",
+    "damage": "91.8",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 492,
+    "rarity": "Epic",
+    "DPS": "138.672",
+    "damage": "96.3",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 493,
+    "rarity": "Legendary",
+    "DPS": "145.152",
+    "damage": "100.8",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 494,
+    "rarity": "Mythic",
+    "DPS": "151.632",
+    "damage": "105.3",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 495,
+    "rarity": "Mythic",
+    "DPS": "151.632",
+    "damage": "105.3",
+    "fire_rate": "1.44",
+    "magazine": "6"
+  },
+  {
+    "index": 496,
+    "rarity": "Common",
+    "DPS": "216",
+    "damage": "18",
+    "fire_rate": "12",
+    "magazine": "32"
+  },
+  {
+    "index": 497,
+    "rarity": "Uncommon",
+    "DPS": "228",
+    "damage": "19",
+    "fire_rate": "12",
+    "magazine": "32"
+  },
+  {
+    "index": 498,
+    "rarity": "Rare",
+    "DPS": "240",
+    "damage": "20",
+    "fire_rate": "12",
+    "magazine": "32"
+  },
+  {
+    "index": 499,
+    "rarity": "Epic",
+    "DPS": "252",
+    "damage": "21",
+    "fire_rate": "12",
+    "magazine": "32"
+  },
+  {
+    "index": 500,
+    "rarity": "Legendary",
+    "DPS": "264",
+    "damage": "22",
+    "fire_rate": "12",
+    "magazine": "32"
+  },
+  {
+    "index": 501,
+    "rarity": "Mythic",
+    "DPS": "276",
+    "damage": "23",
+    "fire_rate": "12",
+    "magazine": "32"
+  },
+  {
+    "index": 502,
+    "rarity": "Common",
+    "DPS": "45",
+    "damage": "15",
+    "fire_rate": "3",
+    "magazine": "30"
+  },
+  {
+    "index": 503,
+    "rarity": "Uncommon",
+    "DPS": "48",
+    "damage": "16",
+    "fire_rate": "3",
+    "magazine": "30"
+  },
+  {
+    "index": 504,
+    "rarity": "Rare",
+    "DPS": "51",
+    "damage": "17",
+    "fire_rate": "3",
+    "magazine": "30"
+  },
+  {
+    "index": 505,
+    "rarity": "Epic",
+    "DPS": "54",
+    "damage": "18",
+    "fire_rate": "3",
+    "magazine": "30"
+  },
+  {
+    "index": 506,
+    "rarity": "Legendary",
+    "DPS": "57",
+    "damage": "19",
+    "fire_rate": "3",
+    "magazine": "30"
+  },
+  {
+    "index": 507,
+    "rarity": "Mythic",
+    "DPS": "60",
+    "damage": "20",
+    "fire_rate": "3",
+    "magazine": "30"
+  },
+  {
+    "index": 508,
+    "rarity": "Common",
+    "DPS": "180",
+    "damage": "15",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 509,
+    "rarity": "Uncommon",
+    "DPS": "192",
+    "damage": "16",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 510,
+    "rarity": "Rare",
+    "DPS": "204",
+    "damage": "17",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 511,
+    "rarity": "Epic",
+    "DPS": "216",
+    "damage": "18",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 512,
+    "rarity": "Legendary",
+    "DPS": "228",
+    "damage": "19",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 513,
+    "rarity": "Mythic",
+    "DPS": "240",
+    "damage": "20",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 514,
+    "rarity": "Mythic",
+    "DPS": "276",
+    "damage": "23",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 515,
+    "rarity": "Common",
+    "DPS": "210",
+    "damage": "14",
+    "fire_rate": "15",
+    "magazine": "35"
+  },
+  {
+    "index": 516,
+    "rarity": "Common",
+    "DPS": "176",
+    "damage": "16",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 517,
+    "rarity": "Uncommon",
+    "DPS": "225",
+    "damage": "15",
+    "fire_rate": "15",
+    "magazine": "35"
+  },
+  {
+    "index": 518,
+    "rarity": "Uncommon",
+    "DPS": "187",
+    "damage": "17",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 519,
+    "rarity": "Rare",
+    "DPS": "240",
+    "damage": "16",
+    "fire_rate": "15",
+    "magazine": "35"
+  },
+  {
+    "index": 520,
+    "rarity": "Rare",
+    "DPS": "198",
+    "damage": "18",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 521,
+    "rarity": "Epic",
+    "DPS": "209",
+    "damage": "19",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 522,
+    "rarity": "Epic",
+    "DPS": "55",
+    "damage": "5",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 523,
+    "rarity": "Epic",
+    "DPS": "209",
+    "damage": "19",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 524,
+    "rarity": "Legendary",
+    "DPS": "220",
+    "damage": "20",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 525,
+    "rarity": "Legendary",
+    "DPS": "220",
+    "damage": "20",
+    "fire_rate": "11",
+    "magazine": "30"
+  },
+  {
+    "index": 526,
+    "rarity": "Uncommon",
+    "DPS": "160",
+    "damage": "16",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 527,
+    "rarity": "Uncommon",
+    "DPS": "162",
+    "damage": "18",
+    "fire_rate": "9",
+    "magazine": "25"
+  },
+  {
+    "index": 528,
+    "rarity": "Rare",
+    "DPS": "170",
+    "damage": "17",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 529,
+    "rarity": "Rare",
+    "DPS": "171",
+    "damage": "19",
+    "fire_rate": "9",
+    "magazine": "25"
+  },
+  {
+    "index": 530,
+    "rarity": "Epic",
+    "DPS": "180",
+    "damage": "18",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 531,
+    "rarity": "Epic",
+    "DPS": "180",
+    "damage": "20",
+    "fire_rate": "9",
+    "magazine": "25"
+  },
+  {
+    "index": 532,
+    "rarity": "Legendary",
+    "DPS": "190",
+    "damage": "19",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 533,
+    "rarity": "Legendary",
+    "DPS": "189",
+    "damage": "21",
+    "fire_rate": "9",
+    "magazine": "25"
+  },
+  {
+    "index": 534,
+    "rarity": "Common",
+    "DPS": "195",
+    "damage": "13",
+    "fire_rate": "15",
+    "magazine": "20"
+  },
+  {
+    "index": 535,
+    "rarity": "Uncommon",
+    "DPS": "210",
+    "damage": "14",
+    "fire_rate": "15",
+    "magazine": "20"
+  },
+  {
+    "index": 536,
+    "rarity": "Rare",
+    "DPS": "225",
+    "damage": "15",
+    "fire_rate": "15",
+    "magazine": "20"
+  },
+  {
+    "index": 537,
+    "rarity": "Epic",
+    "DPS": "240",
+    "damage": "16",
+    "fire_rate": "15",
+    "magazine": "26"
+  },
+  {
+    "index": 538,
+    "rarity": "Legendary",
+    "DPS": "255",
+    "damage": "17",
+    "fire_rate": "15",
+    "magazine": "26"
+  },
+  {
+    "index": 539,
+    "rarity": "Common",
+    "DPS": "153",
+    "damage": "17",
+    "fire_rate": "9",
+    "magazine": "30"
+  },
+  {
+    "index": 540,
+    "rarity": "Common",
+    "DPS": "156",
+    "damage": "20",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 541,
+    "rarity": "Uncommon",
+    "DPS": "162",
+    "damage": "18",
+    "fire_rate": "9",
+    "magazine": "30"
+  },
+  {
+    "index": 542,
+    "rarity": "Uncommon",
+    "DPS": "163.8",
+    "damage": "21",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 543,
+    "rarity": "Uncommon",
+    "DPS": "163.8",
+    "damage": "21",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 544,
+    "rarity": "Rare",
+    "DPS": "171",
+    "damage": "19",
+    "fire_rate": "9",
+    "magazine": "30"
+  },
+  {
+    "index": 545,
+    "rarity": "Rare",
+    "DPS": "171.6",
+    "damage": "22",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 546,
+    "rarity": "Epic",
+    "DPS": "180",
+    "damage": "20",
+    "fire_rate": "9",
+    "magazine": "30"
+  },
+  {
+    "index": 547,
+    "rarity": "Epic",
+    "DPS": "179.4",
+    "damage": "23",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 548,
+    "rarity": "Legendary",
+    "DPS": "189",
+    "damage": "21",
+    "fire_rate": "9",
+    "magazine": "30"
+  },
+  {
+    "index": 549,
+    "rarity": "Legendary",
+    "DPS": "187.2",
+    "damage": "24",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 550,
+    "rarity": "Mythic",
+    "DPS": "189",
+    "damage": "21",
+    "fire_rate": "9",
+    "magazine": "30"
+  },
+  {
+    "index": 551,
+    "rarity": "Mythic",
+    "DPS": "187.2",
+    "damage": "24",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 552,
+    "rarity": "Common",
+    "DPS": "72",
+    "damage": "24",
+    "fire_rate": "3",
+    "magazine": "24"
+  },
+  {
+    "index": 553,
+    "rarity": "Uncommon",
+    "DPS": "75",
+    "damage": "25",
+    "fire_rate": "3",
+    "magazine": "24"
+  },
+  {
+    "index": 554,
+    "rarity": "Rare",
+    "DPS": "78",
+    "damage": "26",
+    "fire_rate": "3",
+    "magazine": "24"
+  },
+  {
+    "index": 555,
+    "rarity": "Transcendent",
+    "DPS": "220",
+    "damage": "20",
+    "fire_rate": "11",
+    "magazine": "35"
+  },
+  {
+    "index": 556,
+    "rarity": "Uncommon",
+    "DPS": "190",
+    "damage": "19",
+    "fire_rate": "10",
+    "magazine": "35"
+  },
+  {
+    "index": 557,
+    "rarity": "Rare",
+    "DPS": "200",
+    "damage": "20",
+    "fire_rate": "10",
+    "magazine": "35"
+  },
+  {
+    "index": 558,
+    "rarity": "Epic",
+    "DPS": "210",
+    "damage": "21",
+    "fire_rate": "10",
+    "magazine": "35"
+  },
+  {
+    "index": 559,
+    "rarity": "Legendary",
+    "DPS": "220",
+    "damage": "22",
+    "fire_rate": "10",
+    "magazine": "35"
+  },
+  {
+    "index": 560,
+    "rarity": "Common",
+    "DPS": "170",
+    "damage": "17",
+    "fire_rate": "10",
+    "magazine": "25"
+  },
+  {
+    "index": 561,
+    "rarity": "Uncommon",
+    "DPS": "180",
+    "damage": "18",
+    "fire_rate": "10",
+    "magazine": "25"
+  },
+  {
+    "index": 562,
+    "rarity": "Rare",
+    "DPS": "190",
+    "damage": "19",
+    "fire_rate": "10",
+    "magazine": "25"
+  },
+  {
+    "index": 563,
+    "rarity": "Common",
+    "DPS": "189",
+    "damage": "14",
+    "fire_rate": "13.5",
+    "magazine": "33"
+  },
+  {
+    "index": 564,
+    "rarity": "Uncommon",
+    "DPS": "202.5",
+    "damage": "15",
+    "fire_rate": "13.5",
+    "magazine": "33"
+  },
+  {
+    "index": 565,
+    "rarity": "Rare",
+    "DPS": "216",
+    "damage": "16",
+    "fire_rate": "13.5",
+    "magazine": "33"
+  },
+  {
+    "index": 566,
+    "rarity": "Epic",
+    "DPS": "229.5",
+    "damage": "17",
+    "fire_rate": "13.5",
+    "magazine": "33"
+  },
+  {
+    "index": 567,
+    "rarity": "Legendary",
+    "DPS": "243",
+    "damage": "18",
+    "fire_rate": "13.5",
+    "magazine": "33"
+  },
+  {
+    "index": 568,
+    "rarity": "Mythic",
+    "DPS": "187.2",
+    "damage": "24",
+    "fire_rate": "7.8",
+    "magazine": "30"
+  },
+  {
+    "index": 569,
+    "rarity": "Common",
+    "DPS": "208",
+    "damage": "16",
+    "fire_rate": "13",
+    "magazine": "20"
+  },
+  {
+    "index": 570,
+    "rarity": "Uncommon",
+    "DPS": "221",
+    "damage": "17",
+    "fire_rate": "13",
+    "magazine": "20"
+  },
+  {
+    "index": 571,
+    "rarity": "Rare",
+    "DPS": "234",
+    "damage": "18",
+    "fire_rate": "13",
+    "magazine": "20"
+  },
+  {
+    "index": 572,
+    "rarity": "Epic",
+    "DPS": "247",
+    "damage": "19",
+    "fire_rate": "13",
+    "magazine": "20"
+  },
+  {
+    "index": 573,
+    "rarity": "Legendary",
+    "DPS": "260",
+    "damage": "20",
+    "fire_rate": "13",
+    "magazine": "20"
+  },
+  {
+    "index": 574,
+    "rarity": "Exotic",
+    "DPS": "198",
+    "damage": "18",
+    "fire_rate": "11",
+    "magazine": "33"
+  },
+  {
+    "index": 575,
+    "rarity": "Exotic",
+    "DPS": "273",
+    "damage": "21",
+    "fire_rate": "13",
+    "magazine": "20"
+  },
+  {
+    "index": 576,
+    "rarity": "Mythic",
+    "DPS": "80",
+    "damage": "16",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 577,
+    "rarity": "Common",
+    "DPS": "65",
+    "damage": "13",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 578,
+    "rarity": "Uncommon",
+    "DPS": "65",
+    "damage": "13",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 579,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "14",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 580,
+    "rarity": "Epic",
+    "DPS": "75",
+    "damage": "15",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 581,
+    "rarity": "Legendary",
+    "DPS": "75",
+    "damage": "15",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 582,
+    "rarity": "Mythic",
+    "DPS": "80",
+    "damage": "16",
+    "fire_rate": "5",
+    "magazine": "32"
+  },
+  {
+    "index": 583,
+    "rarity": "Common",
+    "DPS": "118.8",
+    "damage": "27",
+    "fire_rate": "4.4",
+    "magazine": "27"
+  },
+  {
+    "index": 584,
+    "rarity": "Common",
+    "DPS": "84",
+    "damage": "24",
+    "fire_rate": "3.5",
+    "magazine": "27"
+  },
+  {
+    "index": 585,
+    "rarity": "Common",
+    "DPS": "84",
+    "damage": "24",
+    "fire_rate": "3.5",
+    "magazine": "24"
+  },
+  {
+    "index": 586,
+    "rarity": "Uncommon",
+    "DPS": "87.5",
+    "damage": "25",
+    "fire_rate": "3.5",
+    "magazine": "24"
+  },
+  {
+    "index": 587,
+    "rarity": "Uncommon",
+    "DPS": "87.5",
+    "damage": "25",
+    "fire_rate": "3.5",
+    "magazine": "27"
+  },
+  {
+    "index": 588,
+    "rarity": "Rare",
+    "DPS": "91",
+    "damage": "26",
+    "fire_rate": "3.5",
+    "magazine": "24"
+  },
+  {
+    "index": 589,
+    "rarity": "Rare",
+    "DPS": "91",
+    "damage": "26",
+    "fire_rate": "3.5",
+    "magazine": "24"
+  },
+  {
+    "index": 590,
+    "rarity": "Rare",
+    "DPS": "91",
+    "damage": "26",
+    "fire_rate": "3.5",
+    "magazine": "27"
+  },
+  {
+    "index": 591,
+    "rarity": "Rare",
+    "DPS": "91",
+    "damage": "26",
+    "fire_rate": "3.5",
+    "magazine": "27"
+  },
+  {
+    "index": 592,
+    "rarity": "Epic",
+    "DPS": "98",
+    "damage": "28",
+    "fire_rate": "3.5",
+    "magazine": "24"
+  },
+  {
+    "index": 593,
+    "rarity": "Epic",
+    "DPS": "98",
+    "damage": "28",
+    "fire_rate": "3.5",
+    "magazine": "27"
+  },
+  {
+    "index": 594,
+    "rarity": "Legendary",
+    "DPS": "101.5",
+    "damage": "29",
+    "fire_rate": "3.5",
+    "magazine": "24"
+  },
+  {
+    "index": 595,
+    "rarity": "Legendary",
+    "DPS": "101.5",
+    "damage": "29",
+    "fire_rate": "3.5",
+    "magazine": "27"
+  },
+  {
+    "index": 596,
+    "rarity": "Common",
+    "DPS": "346.58",
+    "damage": "26",
+    "fire_rate": "13.33",
+    "magazine": "30"
+  },
+  {
+    "index": 597,
+    "rarity": "Common",
+    "DPS": "156",
+    "damage": "13",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 598,
+    "rarity": "Common",
+    "DPS": "156",
+    "damage": "13",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 599,
+    "rarity": "Uncommon",
+    "DPS": "168",
+    "damage": "14",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 600,
+    "rarity": "Uncommon",
+    "DPS": "168",
+    "damage": "14",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 601,
+    "rarity": "Rare",
+    "DPS": "180",
+    "damage": "15",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 602,
+    "rarity": "Rare",
+    "DPS": "180",
+    "damage": "15",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 603,
+    "rarity": "Rare",
+    "DPS": "180",
+    "damage": "15",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 604,
+    "rarity": "Rare",
+    "DPS": "180",
+    "damage": "15",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 605,
+    "rarity": "Epic",
+    "DPS": "192",
+    "damage": "16",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 606,
+    "rarity": "Epic",
+    "DPS": "192",
+    "damage": "16",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 607,
+    "rarity": "Legendary",
+    "DPS": "192",
+    "damage": "16",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 608,
+    "rarity": "Legendary",
+    "DPS": "192",
+    "damage": "16",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 609,
+    "rarity": "Legendary",
+    "DPS": "192",
+    "damage": "16",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 610,
+    "rarity": "Mythic",
+    "DPS": "204",
+    "damage": "17",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 611,
+    "rarity": "Mythic",
+    "DPS": "204",
+    "damage": "17",
+    "fire_rate": "12",
+    "magazine": "30"
+  },
+  {
+    "index": 612,
+    "rarity": "Common",
+    "DPS": "170",
+    "damage": "17",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 613,
+    "rarity": "Uncommon",
+    "DPS": "180",
+    "damage": "18",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 614,
+    "rarity": "Rare",
+    "DPS": "190",
+    "damage": "19",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 615,
+    "rarity": "Epic",
+    "DPS": "200",
+    "damage": "20",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 616,
+    "rarity": "Legendary",
+    "DPS": "210",
+    "damage": "21",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 617,
+    "rarity": "Mythic",
+    "DPS": "230",
+    "damage": "23",
+    "fire_rate": "10",
+    "magazine": "30"
+  },
+  {
+    "index": 618,
+    "rarity": "Common",
+    "DPS": "126",
+    "damage": "9",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 619,
+    "rarity": "Uncommon",
+    "DPS": "140",
+    "damage": "10",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 620,
+    "rarity": "Rare",
+    "DPS": "154",
+    "damage": "11",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 621,
+    "rarity": "Epic",
+    "DPS": "168",
+    "damage": "12",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 622,
+    "rarity": "Legendary",
+    "DPS": "182",
+    "damage": "13",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 623,
+    "rarity": "Mythic",
+    "DPS": "196",
+    "damage": "14",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 624,
+    "rarity": "Common",
+    "DPS": "79.75",
+    "damage": "11",
+    "fire_rate": "7.25",
+    "magazine": "40"
+  },
+  {
+    "index": 625,
+    "rarity": "Uncommon",
+    "DPS": "87",
+    "damage": "12",
+    "fire_rate": "7.25",
+    "magazine": "40"
+  },
+  {
+    "index": 626,
+    "rarity": "Rare",
+    "DPS": "94.25",
+    "damage": "13",
+    "fire_rate": "7.25",
+    "magazine": "40"
+  },
+  {
+    "index": 627,
+    "rarity": "Epic",
+    "DPS": "101.5",
+    "damage": "14",
+    "fire_rate": "7.25",
+    "magazine": "40"
+  },
+  {
+    "index": 628,
+    "rarity": "Legendary",
+    "DPS": "108.75",
+    "damage": "15",
+    "fire_rate": "7.25",
+    "magazine": "40"
+  },
+  {
+    "index": 629,
+    "rarity": "Mythic",
+    "DPS": "116",
+    "damage": "16",
+    "fire_rate": "7.25",
+    "magazine": "40"
+  },
+  {
+    "index": 630,
+    "rarity": "Exotic",
+    "DPS": "195.7",
+    "damage": "19",
+    "fire_rate": "10.3",
+    "magazine": "21"
+  },
+  {
+    "index": 631,
+    "rarity": "Common",
+    "DPS": "112",
+    "damage": "28",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 632,
+    "rarity": "Uncommon",
+    "DPS": "116",
+    "damage": "29",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 633,
+    "rarity": "Rare",
+    "DPS": "124",
+    "damage": "31",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 634,
+    "rarity": "Epic",
+    "DPS": "132",
+    "damage": "33",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 635,
+    "rarity": "Legendary",
+    "DPS": "136",
+    "damage": "34",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 636,
+    "rarity": "Common",
+    "DPS": "210",
+    "damage": "15",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 637,
+    "rarity": "Uncommon",
+    "DPS": "224",
+    "damage": "16",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 638,
+    "rarity": "Rare",
+    "DPS": "238",
+    "damage": "17",
+    "fire_rate": "14",
+    "magazine": "32"
+  },
+  {
+    "index": 639,
+    "rarity": "Common",
+    "DPS": "155.25",
+    "damage": "23",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 640,
+    "rarity": "Uncommon",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 641,
+    "rarity": "Rare",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 642,
+    "rarity": "Epic",
+    "DPS": "182.25",
+    "damage": "27",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 643,
+    "rarity": "Legendary",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 644,
+    "rarity": "Common",
+    "DPS": "162",
+    "damage": "24",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 645,
+    "rarity": "Uncommon",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 646,
+    "rarity": "Uncommon",
+    "DPS": "21",
+    "damage": "30",
+    "fire_rate": "0.7",
+    "magazine": "5"
+  },
+  {
+    "index": 647,
+    "rarity": "Rare",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 648,
+    "rarity": "Epic",
+    "DPS": "189",
+    "damage": "28",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 649,
+    "rarity": "Legendary",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 650,
+    "rarity": "Common",
+    "DPS": "155.25",
+    "damage": "23",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 651,
+    "rarity": "Uncommon",
+    "DPS": "162",
+    "damage": "24",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 652,
+    "rarity": "Rare",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 653,
+    "rarity": "Epic",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 654,
+    "rarity": "Legendary",
+    "DPS": "189",
+    "damage": "28",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 655,
+    "rarity": "Uncommon",
+    "DPS": "83.6",
+    "damage": "38",
+    "fire_rate": "2.2",
+    "magazine": "18"
+  },
+  {
+    "index": 656,
+    "rarity": "Rare",
+    "DPS": "88",
+    "damage": "40",
+    "fire_rate": "2.2",
+    "magazine": "18"
+  },
+  {
+    "index": 657,
+    "rarity": "Epic",
+    "DPS": "92.4",
+    "damage": "42",
+    "fire_rate": "2.2",
+    "magazine": "18"
+  },
+  {
+    "index": 658,
+    "rarity": "Common",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 659,
+    "rarity": "Uncommon",
+    "DPS": "182.25",
+    "damage": "27",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 660,
+    "rarity": "Rare",
+    "DPS": "189",
+    "damage": "28",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 661,
+    "rarity": "Epic",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 662,
+    "rarity": "Legendary",
+    "DPS": "209.25",
+    "damage": "31",
+    "fire_rate": "6.75",
+    "magazine": "15"
+  },
+  {
+    "index": 663,
+    "rarity": "Exotic",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 664,
+    "rarity": "Uncommon",
+    "DPS": "170",
+    "damage": "34",
+    "fire_rate": "5",
+    "magazine": "6"
+  },
+  {
+    "index": 665,
+    "rarity": "Rare",
+    "DPS": "180",
+    "damage": "36",
+    "fire_rate": "5",
+    "magazine": "6"
+  },
+  {
+    "index": 666,
+    "rarity": "Epic",
+    "DPS": "190",
+    "damage": "38",
+    "fire_rate": "5",
+    "magazine": "6"
+  },
+  {
+    "index": 667,
+    "rarity": "Exotic",
+    "DPS": "120",
+    "damage": "24",
+    "fire_rate": "5",
+    "magazine": "6"
+  },
+  {
+    "index": 668,
+    "rarity": "Exotic",
+    "DPS": "96.8",
+    "damage": "44",
+    "fire_rate": "2.2",
+    "magazine": "18"
+  },
+  {
+    "index": 669,
+    "rarity": "Common",
+    "DPS": "48.6",
+    "damage": "54",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 670,
+    "rarity": "Common",
+    "DPS": "81",
+    "damage": "54",
+    "fire_rate": "1.5",
+    "magazine": "6"
+  },
+  {
+    "index": 671,
+    "rarity": "Uncommon",
+    "DPS": "51.3",
+    "damage": "57",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 672,
+    "rarity": "Uncommon",
+    "DPS": "85.5",
+    "damage": "57",
+    "fire_rate": "1.5",
+    "magazine": "6"
+  },
+  {
+    "index": 673,
+    "rarity": "Rare",
+    "DPS": "54",
+    "damage": "60",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 674,
+    "rarity": "Rare",
+    "DPS": "90",
+    "damage": "60",
+    "fire_rate": "1.5",
+    "magazine": "6"
+  },
+  {
+    "index": 675,
+    "rarity": "Epic",
+    "DPS": "56.7",
+    "damage": "63",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 676,
+    "rarity": "Epic",
+    "DPS": "94.5",
+    "damage": "63",
+    "fire_rate": "1.5",
+    "magazine": "6"
+  },
+  {
+    "index": 677,
+    "rarity": "Legendary",
+    "DPS": "59.4",
+    "damage": "66",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 678,
+    "rarity": "Legendary",
+    "DPS": "99",
+    "damage": "66",
+    "fire_rate": "1.5",
+    "magazine": "6"
+  },
+  {
+    "index": 679,
+    "rarity": "Epic",
+    "DPS": "67.2",
+    "damage": "42",
+    "fire_rate": "1.6",
+    "magazine": "6"
+  },
+  {
+    "index": 680,
+    "rarity": "Legendary",
+    "DPS": "70.4",
+    "damage": "44",
+    "fire_rate": "1.6",
+    "magazine": "6"
+  },
+  {
+    "index": 681,
+    "rarity": "Rare",
+    "DPS": "88",
+    "damage": "40",
+    "fire_rate": "2.2",
+    "magazine": "18"
+  },
+  {
+    "index": 682,
+    "rarity": "Epic",
+    "DPS": "92.4",
+    "damage": "42",
+    "fire_rate": "2.2",
+    "magazine": "18"
+  },
+  {
+    "index": 683,
+    "rarity": "Common",
+    "DPS": "28.38",
+    "damage": "86",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 684,
+    "rarity": "Uncommon",
+    "DPS": "29.7",
+    "damage": "90",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 685,
+    "rarity": "Common",
+    "DPS": "162",
+    "damage": "24",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 686,
+    "rarity": "Common",
+    "DPS": "162",
+    "damage": "24",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 687,
+    "rarity": "Uncommon",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 688,
+    "rarity": "Uncommon",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 689,
+    "rarity": "Rare",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 690,
+    "rarity": "Rare",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 691,
+    "rarity": "Epic",
+    "DPS": "189",
+    "damage": "28",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 692,
+    "rarity": "Legendary",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "16"
+  },
+  {
+    "index": 693,
+    "rarity": "Uncommon",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 694,
+    "rarity": "Rare",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 695,
+    "rarity": "Epic",
+    "DPS": "168.75",
+    "damage": "25",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 696,
+    "rarity": "Epic",
+    "DPS": "182.25",
+    "damage": "27",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 697,
+    "rarity": "Legendary",
+    "DPS": "175.5",
+    "damage": "26",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 698,
+    "rarity": "Legendary",
+    "DPS": "195.75",
+    "damage": "29",
+    "fire_rate": "6.75",
+    "magazine": "12"
+  },
+  {
+    "index": 699,
+    "rarity": "Uncommon",
+    "DPS": "54",
+    "damage": "36",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 700,
+    "rarity": "Rare",
+    "DPS": "57",
+    "damage": "38",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 701,
+    "rarity": "Epic",
+    "DPS": "60",
+    "damage": "40",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 702,
+    "rarity": "Legendary",
+    "DPS": "63",
+    "damage": "42",
+    "fire_rate": "1.5",
+    "magazine": "8"
+  },
+  {
+    "index": 703,
+    "rarity": "Common",
+    "DPS": "78.75",
+    "damage": "45",
+    "fire_rate": "1.75",
+    "magazine": "6"
+  },
+  {
+    "index": 704,
+    "rarity": "Uncommon",
+    "DPS": "84",
+    "damage": "48",
+    "fire_rate": "1.75",
+    "magazine": "6"
+  },
+  {
+    "index": 705,
+    "rarity": "Rare",
+    "DPS": "87.5",
+    "damage": "50",
+    "fire_rate": "1.75",
+    "magazine": "6"
+  },
+  {
+    "index": 706,
+    "rarity": "Legendary",
+    "DPS": "160",
+    "damage": "20",
+    "fire_rate": "8",
+    "magazine": "1000000"
+  },
+  {
+    "index": 707,
+    "rarity": "Common",
+    "DPS": "156.4",
+    "damage": "23",
+    "fire_rate": "6.8",
+    "magazine": "15"
+  },
+  {
+    "index": 708,
+    "rarity": "Uncommon",
+    "DPS": "163.2",
+    "damage": "24",
+    "fire_rate": "6.8",
+    "magazine": "15"
+  },
+  {
+    "index": 709,
+    "rarity": "Rare",
+    "DPS": "170",
+    "damage": "25",
+    "fire_rate": "6.8",
+    "magazine": "15"
+  },
+  {
+    "index": 710,
+    "rarity": "Epic",
+    "DPS": "176.8",
+    "damage": "26",
+    "fire_rate": "6.8",
+    "magazine": "15"
+  },
+  {
+    "index": 711,
+    "rarity": "Legendary",
+    "DPS": "190.4",
+    "damage": "28",
+    "fire_rate": "6.8",
+    "magazine": "15"
+  },
+  {
+    "index": 712,
+    "rarity": "Mythic",
+    "DPS": "197.2",
+    "damage": "29",
+    "fire_rate": "6.8",
+    "magazine": "15"
+  },
+  {
+    "index": 713,
+    "rarity": "Rare",
+    "DPS": "375",
+    "damage": "25",
+    "fire_rate": "15",
+    "magazine": "12"
+  },
+  {
+    "index": 714,
+    "rarity": "Common",
+    "DPS": "89",
+    "damage": "89",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 715,
+    "rarity": "Common",
+    "DPS": "149.5",
+    "damage": "26",
+    "fire_rate": "5.75",
+    "magazine": "12"
+  },
+  {
+    "index": 716,
+    "rarity": "Common",
+    "DPS": "158.4",
+    "damage": "24",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 717,
+    "rarity": "Common",
+    "DPS": "151.8",
+    "damage": "23",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 718,
+    "rarity": "Uncommon",
+    "DPS": "158.4",
+    "damage": "24",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 719,
+    "rarity": "Uncommon",
+    "DPS": "171.6",
+    "damage": "26",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 720,
+    "rarity": "Rare",
+    "DPS": "165",
+    "damage": "25",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 721,
+    "rarity": "Rare",
+    "DPS": "178.2",
+    "damage": "27",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 722,
+    "rarity": "Epic",
+    "DPS": "171.6",
+    "damage": "26",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 723,
+    "rarity": "Epic",
+    "DPS": "184.8",
+    "damage": "28",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 724,
+    "rarity": "Legendary",
+    "DPS": "184.8",
+    "damage": "28",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 725,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "30",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 726,
+    "rarity": "Legendary",
+    "DPS": "198",
+    "damage": "30",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 727,
+    "rarity": "Mythic",
+    "DPS": "191.4",
+    "damage": "29",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 728,
+    "rarity": "Mythic",
+    "DPS": "204.6",
+    "damage": "31",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 729,
+    "rarity": "Common",
+    "DPS": "93.6",
+    "damage": "39",
+    "fire_rate": "2.4",
+    "magazine": "7"
+  },
+  {
+    "index": 730,
+    "rarity": "Uncommon",
+    "DPS": "98.4",
+    "damage": "41",
+    "fire_rate": "2.4",
+    "magazine": "7"
+  },
+  {
+    "index": 731,
+    "rarity": "Rare",
+    "DPS": "103.2",
+    "damage": "43",
+    "fire_rate": "2.4",
+    "magazine": "7"
+  },
+  {
+    "index": 732,
+    "rarity": "Epic",
+    "DPS": "108",
+    "damage": "45",
+    "fire_rate": "2.4",
+    "magazine": "7"
+  },
+  {
+    "index": 733,
+    "rarity": "Legendary",
+    "DPS": "112.8",
+    "damage": "47",
+    "fire_rate": "2.4",
+    "magazine": "7"
+  },
+  {
+    "index": 734,
+    "rarity": "Mythic",
+    "DPS": "117.6",
+    "damage": "49",
+    "fire_rate": "2.4",
+    "magazine": "9"
+  },
+  {
+    "index": 735,
+    "rarity": "Mythic",
+    "DPS": "117.6",
+    "damage": "49",
+    "fire_rate": "2.4",
+    "magazine": "9"
+  },
+  {
+    "index": 736,
+    "rarity": "Common",
+    "DPS": "112.5",
+    "damage": "45",
+    "fire_rate": "2.5",
+    "magazine": "10"
+  },
+  {
+    "index": 737,
+    "rarity": "Uncommon",
+    "DPS": "120",
+    "damage": "48",
+    "fire_rate": "2.5",
+    "magazine": "10"
+  },
+  {
+    "index": 738,
+    "rarity": "Rare",
+    "DPS": "125",
+    "damage": "50",
+    "fire_rate": "2.5",
+    "magazine": "10"
+  },
+  {
+    "index": 739,
+    "rarity": "Rare",
+    "DPS": "178.25",
+    "damage": "31",
+    "fire_rate": "5.75",
+    "magazine": "25"
+  },
+  {
+    "index": 740,
+    "rarity": "Epic",
+    "DPS": "132.5",
+    "damage": "53",
+    "fire_rate": "2.5",
+    "magazine": "10"
+  },
+  {
+    "index": 741,
+    "rarity": "Legendary",
+    "DPS": "137.5",
+    "damage": "55",
+    "fire_rate": "2.5",
+    "magazine": "10"
+  },
+  {
+    "index": 742,
+    "rarity": "Mythic",
+    "DPS": "145",
+    "damage": "58",
+    "fire_rate": "2.5",
+    "magazine": "10"
+  },
+  {
+    "index": 743,
+    "rarity": "Common",
+    "DPS": "144",
+    "damage": "36",
+    "fire_rate": "4",
+    "magazine": "20"
+  },
+  {
+    "index": 744,
+    "rarity": "Uncommon",
+    "DPS": "152",
+    "damage": "38",
+    "fire_rate": "4",
+    "magazine": "20"
+  },
+  {
+    "index": 745,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "40",
+    "fire_rate": "4",
+    "magazine": "20"
+  },
+  {
+    "index": 746,
+    "rarity": "Epic",
+    "DPS": "168",
+    "damage": "42",
+    "fire_rate": "4",
+    "magazine": "20"
+  },
+  {
+    "index": 747,
+    "rarity": "Legendary",
+    "DPS": "176",
+    "damage": "44",
+    "fire_rate": "4",
+    "magazine": "20"
+  },
+  {
+    "index": 748,
+    "rarity": "Mythic",
+    "DPS": "184",
+    "damage": "46",
+    "fire_rate": "4",
+    "magazine": "20"
+  },
+  {
+    "index": 749,
+    "rarity": "Common",
+    "DPS": "160",
+    "damage": "32",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 750,
+    "rarity": "Uncommon",
+    "DPS": "165",
+    "damage": "33",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 751,
+    "rarity": "Rare",
+    "DPS": "175",
+    "damage": "35",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 752,
+    "rarity": "Epic",
+    "DPS": "185",
+    "damage": "37",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 753,
+    "rarity": "Legendary",
+    "DPS": "195",
+    "damage": "39",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 754,
+    "rarity": "Mythic",
+    "DPS": "200",
+    "damage": "40",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 755,
+    "rarity": "Mythic",
+    "DPS": "200",
+    "damage": "40",
+    "fire_rate": "5",
+    "magazine": "20"
+  },
+  {
+    "index": 756,
+    "rarity": "Common",
+    "DPS": "116.85",
+    "damage": "41",
+    "fire_rate": "2.85",
+    "magazine": "14"
+  },
+  {
+    "index": 757,
+    "rarity": "Uncommon",
+    "DPS": "122.55",
+    "damage": "43",
+    "fire_rate": "2.85",
+    "magazine": "14"
+  },
+  {
+    "index": 758,
+    "rarity": "Rare",
+    "DPS": "128.25",
+    "damage": "45",
+    "fire_rate": "2.85",
+    "magazine": "14"
+  },
+  {
+    "index": 759,
+    "rarity": "Epic",
+    "DPS": "133.95",
+    "damage": "47",
+    "fire_rate": "2.85",
+    "magazine": "14"
+  },
+  {
+    "index": 760,
+    "rarity": "Legendary",
+    "DPS": "142.5",
+    "damage": "50",
+    "fire_rate": "2.85",
+    "magazine": "14"
+  },
+  {
+    "index": 761,
+    "rarity": "Uncommon",
+    "DPS": "90.52",
+    "damage": "62",
+    "fire_rate": "1.46",
+    "magazine": "7"
+  },
+  {
+    "index": 762,
+    "rarity": "Rare",
+    "DPS": "94.9",
+    "damage": "65",
+    "fire_rate": "1.46",
+    "magazine": "7"
+  },
+  {
+    "index": 763,
+    "rarity": "Epic",
+    "DPS": "99.28",
+    "damage": "68",
+    "fire_rate": "1.46",
+    "magazine": "7"
+  },
+  {
+    "index": 764,
+    "rarity": "Legendary",
+    "DPS": "105.12",
+    "damage": "72",
+    "fire_rate": "1.46",
+    "magazine": "7"
+  },
+  {
+    "index": 765,
+    "rarity": "Mythic",
+    "DPS": "109.5",
+    "damage": "75",
+    "fire_rate": "1.46",
+    "magazine": "7"
+  },
+  {
+    "index": 766,
+    "rarity": "Common",
+    "DPS": "61.25",
+    "damage": "49",
+    "fire_rate": "1.25",
+    "magazine": "9"
+  },
+  {
+    "index": 767,
+    "rarity": "Uncommon",
+    "DPS": "65",
+    "damage": "52",
+    "fire_rate": "1.25",
+    "magazine": "9"
+  },
+  {
+    "index": 768,
+    "rarity": "Rare",
+    "DPS": "68.75",
+    "damage": "55",
+    "fire_rate": "1.25",
+    "magazine": "9"
+  },
+  {
+    "index": 769,
+    "rarity": "Epic",
+    "DPS": "72.5",
+    "damage": "58",
+    "fire_rate": "1.25",
+    "magazine": "9"
+  },
+  {
+    "index": 770,
+    "rarity": "Legendary",
+    "DPS": "76.25",
+    "damage": "61",
+    "fire_rate": "1.25",
+    "magazine": "9"
+  },
+  {
+    "index": 771,
+    "rarity": "Uncommon",
+    "DPS": "68.8",
+    "damage": "86",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 772,
+    "rarity": "Uncommon",
+    "DPS": "16.8",
+    "damage": "21",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 773,
+    "rarity": "Uncommon",
+    "DPS": "68.8",
+    "damage": "86",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 774,
+    "rarity": "Uncommon",
+    "DPS": "68.8",
+    "damage": "86",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 775,
+    "rarity": "Uncommon",
+    "DPS": "68.8",
+    "damage": "86",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 776,
+    "rarity": "Rare",
+    "DPS": "72.8",
+    "damage": "91",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 777,
+    "rarity": "Rare",
+    "DPS": "72.8",
+    "damage": "91",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 778,
+    "rarity": "Rare",
+    "DPS": "72.8",
+    "damage": "91",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 779,
+    "rarity": "Rare",
+    "DPS": "72.8",
+    "damage": "91",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 780,
+    "rarity": "Epic",
+    "DPS": "76.8",
+    "damage": "96",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 781,
+    "rarity": "Epic",
+    "DPS": "76.8",
+    "damage": "96",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 782,
+    "rarity": "Legendary",
+    "DPS": "80",
+    "damage": "100",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 783,
+    "rarity": "Legendary",
+    "DPS": "80",
+    "damage": "100",
+    "fire_rate": "0.8",
+    "magazine": "1"
+  },
+  {
+    "index": 784,
+    "rarity": "Common",
+    "DPS": "74.25",
+    "damage": "99",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 785,
+    "rarity": "Common",
+    "DPS": "31.35",
+    "damage": "95",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 786,
+    "rarity": "Common",
+    "DPS": "74.25",
+    "damage": "99",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 787,
+    "rarity": "Common",
+    "DPS": "74.25",
+    "damage": "99",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 788,
+    "rarity": "Uncommon",
+    "DPS": "18.75",
+    "damage": "25",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 789,
+    "rarity": "Uncommon",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 790,
+    "rarity": "Uncommon",
+    "DPS": "33",
+    "damage": "100",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 791,
+    "rarity": "Uncommon",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 792,
+    "rarity": "Uncommon",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 793,
+    "rarity": "Rare",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 794,
+    "rarity": "Rare",
+    "DPS": "34.65",
+    "damage": "105",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 795,
+    "rarity": "Rare",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 796,
+    "rarity": "Rare",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 797,
+    "rarity": "Epic",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 798,
+    "rarity": "Epic",
+    "DPS": "36.3",
+    "damage": "110",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 799,
+    "rarity": "Epic",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 800,
+    "rarity": "Epic",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 801,
+    "rarity": "Legendary",
+    "DPS": "90.75",
+    "damage": "121",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 802,
+    "rarity": "Legendary",
+    "DPS": "38.28",
+    "damage": "116",
+    "fire_rate": "0.33",
+    "magazine": "1"
+  },
+  {
+    "index": 803,
+    "rarity": "Legendary",
+    "DPS": "90.75",
+    "damage": "121",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 804,
+    "rarity": "Legendary",
+    "DPS": "90.75",
+    "damage": "121",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 805,
+    "rarity": "Uncommon",
+    "DPS": "152",
+    "damage": "38",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 806,
+    "rarity": "Rare",
+    "DPS": "160",
+    "damage": "40",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 807,
+    "rarity": "Epic",
+    "DPS": "168",
+    "damage": "42",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 808,
+    "rarity": "Legendary",
+    "DPS": "176",
+    "damage": "44",
+    "fire_rate": "4",
+    "magazine": "16"
+  },
+  {
+    "index": 809,
+    "rarity": "Common",
+    "DPS": "57.6",
+    "damage": "90",
+    "fire_rate": "0.64",
+    "magazine": "3"
+  },
+  {
+    "index": 810,
+    "rarity": "Uncommon",
+    "DPS": "60.8",
+    "damage": "95",
+    "fire_rate": "0.64",
+    "magazine": "3"
+  },
+  {
+    "index": 811,
+    "rarity": "Rare",
+    "DPS": "64",
+    "damage": "100",
+    "fire_rate": "0.64",
+    "magazine": "3"
+  },
+  {
+    "index": 812,
+    "rarity": "Epic",
+    "DPS": "67.2",
+    "damage": "105",
+    "fire_rate": "0.64",
+    "magazine": "3"
+  },
+  {
+    "index": 813,
+    "rarity": "Legendary",
+    "DPS": "70.4",
+    "damage": "110",
+    "fire_rate": "0.64",
+    "magazine": "3"
+  },
+  {
+    "index": 814,
+    "rarity": "Rare",
+    "DPS": "90",
+    "damage": "90",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 815,
+    "rarity": "Epic",
+    "DPS": "95",
+    "damage": "95",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 816,
+    "rarity": "Legendary",
+    "DPS": "99",
+    "damage": "99",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 817,
+    "rarity": "Mythic",
+    "DPS": "55",
+    "damage": "110",
+    "fire_rate": "0.5",
+    "magazine": "1"
+  },
+  {
+    "index": 818,
+    "rarity": "Exotic",
+    "DPS": "90.75",
+    "damage": "121",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 819,
+    "rarity": "Exotic",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 820,
+    "rarity": "Rare",
+    "DPS": "76.8",
+    "damage": "120",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 821,
+    "rarity": "Rare",
+    "DPS": "76.8",
+    "damage": "120",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 822,
+    "rarity": "Rare",
+    "DPS": "76.8",
+    "damage": "120",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 823,
+    "rarity": "Epic",
+    "DPS": "80.64",
+    "damage": "126",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 824,
+    "rarity": "Epic",
+    "DPS": "80.64",
+    "damage": "126",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 825,
+    "rarity": "Epic",
+    "DPS": "80.64",
+    "damage": "126",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 826,
+    "rarity": "Legendary",
+    "DPS": "84.48",
+    "damage": "132",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 827,
+    "rarity": "Legendary",
+    "DPS": "84.48",
+    "damage": "132",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 828,
+    "rarity": "Legendary",
+    "DPS": "84.48",
+    "damage": "132",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 829,
+    "rarity": "Mythic",
+    "DPS": "88.32",
+    "damage": "138",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 830,
+    "rarity": "Mythic",
+    "DPS": "88.32",
+    "damage": "138",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 831,
+    "rarity": "Exotic",
+    "DPS": "81",
+    "damage": "90",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 832,
+    "rarity": "Uncommon",
+    "DPS": "90",
+    "damage": "75",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 833,
+    "rarity": "Uncommon",
+    "DPS": "116.4",
+    "damage": "97",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 834,
+    "rarity": "Uncommon",
+    "DPS": "116.4",
+    "damage": "97",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 835,
+    "rarity": "Rare",
+    "DPS": "93.6",
+    "damage": "78",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 836,
+    "rarity": "Rare",
+    "DPS": "121.2",
+    "damage": "101",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 837,
+    "rarity": "Rare",
+    "DPS": "121.2",
+    "damage": "101",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 838,
+    "rarity": "Epic",
+    "DPS": "75.6",
+    "damage": "63",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 839,
+    "rarity": "Epic",
+    "DPS": "120",
+    "damage": "100",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 840,
+    "rarity": "Epic",
+    "DPS": "120",
+    "damage": "100",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 841,
+    "rarity": "Legendary",
+    "DPS": "79.2",
+    "damage": "66",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 842,
+    "rarity": "Legendary",
+    "DPS": "126",
+    "damage": "105",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 843,
+    "rarity": "Legendary",
+    "DPS": "126",
+    "damage": "105",
+    "fire_rate": "1.2",
+    "magazine": "10"
+  },
+  {
+    "index": 844,
+    "rarity": "Rare",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 845,
+    "rarity": "Rare",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 846,
+    "rarity": "Epic",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 847,
+    "rarity": "Epic",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 848,
+    "rarity": "Epic",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 849,
+    "rarity": "Legendary",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 850,
+    "rarity": "Legendary",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 851,
+    "rarity": "Legendary",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 852,
+    "rarity": "Epic",
+    "DPS": "72.9",
+    "damage": "81",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 853,
+    "rarity": "Legendary",
+    "DPS": "76.5",
+    "damage": "85",
+    "fire_rate": "0.9",
+    "magazine": "6"
+  },
+  {
+    "index": 854,
+    "rarity": "Common",
+    "DPS": "21.7",
+    "damage": "35",
+    "fire_rate": "0.62",
+    "magazine": "3"
+  },
+  {
+    "index": 855,
+    "rarity": "Uncommon",
+    "DPS": "24.8",
+    "damage": "40",
+    "fire_rate": "0.62",
+    "magazine": "3"
+  },
+  {
+    "index": 856,
+    "rarity": "Rare",
+    "DPS": "27.9",
+    "damage": "45",
+    "fire_rate": "0.62",
+    "magazine": "3"
+  },
+  {
+    "index": 857,
+    "rarity": "Epic",
+    "DPS": "34.1",
+    "damage": "55",
+    "fire_rate": "0.62",
+    "magazine": "3"
+  },
+  {
+    "index": 858,
+    "rarity": "Legendary",
+    "DPS": "40.3",
+    "damage": "65",
+    "fire_rate": "0.62",
+    "magazine": "3"
+  },
+  {
+    "index": 859,
+    "rarity": "Mythic",
+    "DPS": "46.5",
+    "damage": "75",
+    "fire_rate": "0.62",
+    "magazine": "3"
+  },
+  {
+    "index": 860,
+    "rarity": "Common",
+    "DPS": "99",
+    "damage": "150",
+    "fire_rate": "0.66",
+    "magazine": "5"
+  },
+  {
+    "index": 861,
+    "rarity": "Uncommon",
+    "DPS": "55.65",
+    "damage": "105",
+    "fire_rate": "0.53",
+    "magazine": "3"
+  },
+  {
+    "index": 862,
+    "rarity": "Rare",
+    "DPS": "58.3",
+    "damage": "110",
+    "fire_rate": "0.53",
+    "magazine": "3"
+  },
+  {
+    "index": 863,
+    "rarity": "Epic",
+    "DPS": "61.48",
+    "damage": "116",
+    "fire_rate": "0.53",
+    "magazine": "3"
+  },
+  {
+    "index": 864,
+    "rarity": "Legendary",
+    "DPS": "64.13",
+    "damage": "121",
+    "fire_rate": "0.53",
+    "magazine": "3"
+  },
+  {
+    "index": 865,
+    "rarity": "Rare",
+    "DPS": "80",
+    "damage": "125",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 866,
+    "rarity": "Epic",
+    "DPS": "83.84",
+    "damage": "131",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 867,
+    "rarity": "Legendary",
+    "DPS": "88.32",
+    "damage": "138",
+    "fire_rate": "0.64",
+    "magazine": "1"
+  },
+  {
+    "index": 868,
+    "rarity": "Common",
+    "DPS": "74.25",
+    "damage": "99",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 869,
+    "rarity": "Common",
+    "DPS": "52.5",
+    "damage": "70",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 870,
+    "rarity": "Uncommon",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 871,
+    "rarity": "Uncommon",
+    "DPS": "63.75",
+    "damage": "85",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 872,
+    "rarity": "Rare",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 873,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "100",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 874,
+    "rarity": "Epic",
+    "DPS": "87",
+    "damage": "116",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 875,
+    "rarity": "Epic",
+    "DPS": "86.25",
+    "damage": "115",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 876,
+    "rarity": "Legendary",
+    "DPS": "90.75",
+    "damage": "121",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 877,
+    "rarity": "Legendary",
+    "DPS": "97.5",
+    "damage": "130",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 878,
+    "rarity": "Transcendent",
+    "DPS": "35.7",
+    "damage": "42",
+    "fire_rate": "0.85",
+    "magazine": "4"
+  },
+  {
+    "index": 879,
+    "rarity": "Epic",
+    "DPS": "43.55",
+    "damage": "67",
+    "fire_rate": "0.65",
+    "magazine": "2"
+  },
+  {
+    "index": 880,
+    "rarity": "Legendary",
+    "DPS": "45.5",
+    "damage": "70",
+    "fire_rate": "0.65",
+    "magazine": "2"
+  },
+  {
+    "index": 881,
+    "rarity": "Rare",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 882,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 883,
+    "rarity": "Epic",
+    "DPS": "105",
+    "damage": "105",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 884,
+    "rarity": "Epic",
+    "DPS": "74",
+    "damage": "74",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 885,
+    "rarity": "Legendary",
+    "DPS": "110",
+    "damage": "110",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 886,
+    "rarity": "Legendary",
+    "DPS": "77",
+    "damage": "77",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 887,
+    "rarity": "Epic",
+    "DPS": "80",
+    "damage": "80",
+    "fire_rate": "1",
+    "magazine": "4"
+  },
+  {
+    "index": 888,
+    "rarity": "Legendary",
+    "DPS": "84",
+    "damage": "84",
+    "fire_rate": "1",
+    "magazine": "4"
+  },
+  {
+    "index": 889,
+    "rarity": "Uncommon",
+    "DPS": "63.75",
+    "damage": "85",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 890,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "100",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 891,
+    "rarity": "Epic",
+    "DPS": "86.25",
+    "damage": "115",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 892,
+    "rarity": "Legendary",
+    "DPS": "97.5",
+    "damage": "130",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 893,
+    "rarity": "Uncommon",
+    "DPS": "36",
+    "damage": "48",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 894,
+    "rarity": "Rare",
+    "DPS": "37.5",
+    "damage": "50",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 895,
+    "rarity": "Rare",
+    "DPS": "37.5",
+    "damage": "50",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 896,
+    "rarity": "Epic",
+    "DPS": "39.75",
+    "damage": "53",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 897,
+    "rarity": "Legendary",
+    "DPS": "41.25",
+    "damage": "55",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 898,
+    "rarity": "Exotic",
+    "DPS": "41.25",
+    "damage": "55",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 899,
+    "rarity": "Exotic",
+    "DPS": "41.25",
+    "damage": "55",
+    "fire_rate": "0.75",
+    "magazine": "4"
+  },
+  {
+    "index": 900,
+    "rarity": "Mythic",
+    "DPS": "50",
+    "damage": "50",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 901,
+    "rarity": "Uncommon",
+    "DPS": "67",
+    "damage": "67",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 902,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 903,
+    "rarity": "Epic",
+    "DPS": "74",
+    "damage": "74",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 904,
+    "rarity": "Legendary",
+    "DPS": "77",
+    "damage": "77",
+    "fire_rate": "1",
+    "magazine": "6"
+  },
+  {
+    "index": 905,
+    "rarity": "Rare",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 906,
+    "rarity": "Legendary",
+    "DPS": "15.2",
+    "damage": "19",
+    "fire_rate": "0.8",
+    "magazine": "0"
+  },
+  {
+    "index": 907,
+    "rarity": "Epic",
+    "DPS": "55.5",
+    "damage": "74",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 908,
+    "rarity": "Legendary",
+    "DPS": "57.75",
+    "damage": "77",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 909,
+    "rarity": "Mythic",
+    "DPS": "150",
+    "damage": "30",
+    "fire_rate": "5",
+    "magazine": "0"
+  },
+  {
+    "index": 910,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "100",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 911,
+    "rarity": "Epic",
+    "DPS": "78.75",
+    "damage": "105",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 912,
+    "rarity": "Legendary",
+    "DPS": "82.5",
+    "damage": "110",
+    "fire_rate": "0.75",
+    "magazine": "1"
+  },
+  {
+    "index": 913,
+    "rarity": "Rare",
+    "DPS": "90",
+    "damage": "60",
+    "fire_rate": "1.5",
+    "magazine": "3"
+  },
+  {
+    "index": 914,
+    "rarity": "Rare",
+    "DPS": "320",
+    "damage": "16",
+    "fire_rate": "20",
+    "magazine": "20"
+  },
+  {
+    "index": 915,
+    "rarity": "Rare",
+    "DPS": "320",
+    "damage": "16",
+    "fire_rate": "20",
+    "magazine": "20"
+  },
+  {
+    "index": 916,
+    "rarity": "Legendary",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 917,
+    "rarity": "Mythic",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 918,
+    "rarity": "Mythic",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 919,
+    "rarity": "Mythic",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 920,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 921,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 922,
+    "rarity": "Epic",
+    "DPS": "79",
+    "damage": "79",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 923,
+    "rarity": "Legendary",
+    "DPS": "83",
+    "damage": "83",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 924,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 925,
+    "rarity": "Epic",
+    "DPS": "79",
+    "damage": "79",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 926,
+    "rarity": "Legendary",
+    "DPS": "83",
+    "damage": "83",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 927,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 928,
+    "rarity": "Common",
+    "DPS": "50",
+    "damage": "50",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 929,
+    "rarity": "Uncommon",
+    "DPS": "52",
+    "damage": "52",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 930,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 931,
+    "rarity": "Epic",
+    "DPS": "79",
+    "damage": "79",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 932,
+    "rarity": "Legendary",
+    "DPS": "83",
+    "damage": "83",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 933,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 934,
+    "rarity": "Epic",
+    "DPS": "79",
+    "damage": "79",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 935,
+    "rarity": "Legendary",
+    "DPS": "83",
+    "damage": "83",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 936,
+    "rarity": "Exotic",
+    "DPS": "89",
+    "damage": "89",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 937,
+    "rarity": "Mythic",
+    "DPS": "86",
+    "damage": "86",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 938,
+    "rarity": "Common",
+    "DPS": "126",
+    "damage": "18",
+    "fire_rate": "7",
+    "magazine": "0"
+  },
+  {
+    "index": 939,
+    "rarity": "Uncommon",
+    "DPS": "133",
+    "damage": "19",
+    "fire_rate": "7",
+    "magazine": "0"
+  },
+  {
+    "index": 940,
+    "rarity": "Rare",
+    "DPS": "140",
+    "damage": "20",
+    "fire_rate": "7",
+    "magazine": "0"
+  },
+  {
+    "index": 941,
+    "rarity": "Epic",
+    "DPS": "147",
+    "damage": "21",
+    "fire_rate": "7",
+    "magazine": "0"
+  },
+  {
+    "index": 942,
+    "rarity": "Legendary",
+    "DPS": "154",
+    "damage": "22",
+    "fire_rate": "7",
+    "magazine": "0"
+  },
+  {
+    "index": 943,
+    "rarity": "Mythic",
+    "DPS": "168",
+    "damage": "24",
+    "fire_rate": "7",
+    "magazine": "0"
+  },
+  {
+    "index": 944,
+    "rarity": "Common",
+    "DPS": "161",
+    "damage": "23",
+    "fire_rate": "7",
+    "magazine": "60"
+  },
+  {
+    "index": 945,
+    "rarity": "Uncommon",
+    "DPS": "168",
+    "damage": "24",
+    "fire_rate": "7",
+    "magazine": "60"
+  },
+  {
+    "index": 946,
+    "rarity": "Rare",
+    "DPS": "175",
+    "damage": "25",
+    "fire_rate": "7",
+    "magazine": "60"
+  },
+  {
+    "index": 947,
+    "rarity": "Epic",
+    "DPS": "182",
+    "damage": "26",
+    "fire_rate": "7",
+    "magazine": "60"
+  },
+  {
+    "index": 948,
+    "rarity": "Legendary",
+    "DPS": "196",
+    "damage": "28",
+    "fire_rate": "7",
+    "magazine": "60"
+  },
+  {
+    "index": 949,
+    "rarity": "Exotic",
+    "DPS": "70.4",
+    "damage": "44",
+    "fire_rate": "1.6",
+    "magazine": "6"
+  },
+  {
+    "index": 950,
+    "rarity": "Rare",
+    "DPS": "228",
+    "damage": "19",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 951,
+    "rarity": "Rare",
+    "DPS": "204",
+    "damage": "17",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 952,
+    "rarity": "Epic",
+    "DPS": "240",
+    "damage": "20",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 953,
+    "rarity": "Epic",
+    "DPS": "216",
+    "damage": "18",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 954,
+    "rarity": "Legendary",
+    "DPS": "252",
+    "damage": "21",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 955,
+    "rarity": "Legendary",
+    "DPS": "228",
+    "damage": "19",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 956,
+    "rarity": "Common",
+    "DPS": "100",
+    "damage": "50",
+    "fire_rate": "2",
+    "magazine": "7"
+  },
+  {
+    "index": 957,
+    "rarity": "Rare",
+    "DPS": "60.8",
+    "damage": "76",
+    "fire_rate": "0.8",
+    "magazine": "7"
+  },
+  {
+    "index": 958,
+    "rarity": "Rare",
+    "DPS": "59.5",
+    "damage": "85",
+    "fire_rate": "0.7",
+    "magazine": "7"
+  },
+  {
+    "index": 959,
+    "rarity": "Epic",
+    "DPS": "64",
+    "damage": "80",
+    "fire_rate": "0.8",
+    "magazine": "7"
+  },
+  {
+    "index": 960,
+    "rarity": "Epic",
+    "DPS": "62.3",
+    "damage": "89",
+    "fire_rate": "0.7",
+    "magazine": "7"
+  },
+  {
+    "index": 961,
+    "rarity": "Legendary",
+    "DPS": "67.2",
+    "damage": "84",
+    "fire_rate": "0.8",
+    "magazine": "7"
+  },
+  {
+    "index": 962,
+    "rarity": "Legendary",
+    "DPS": "65.8",
+    "damage": "94",
+    "fire_rate": "0.7",
+    "magazine": "7"
+  },
+  {
+    "index": 963,
+    "rarity": "Rare",
+    "DPS": "58.5",
+    "damage": "65",
+    "fire_rate": "0.9",
+    "magazine": "5"
+  },
+  {
+    "index": 964,
+    "rarity": "Rare",
+    "DPS": "58.5",
+    "damage": "65",
+    "fire_rate": "0.9",
+    "magazine": "5"
+  },
+  {
+    "index": 965,
+    "rarity": "Epic",
+    "DPS": "61.2",
+    "damage": "68",
+    "fire_rate": "0.9",
+    "magazine": "5"
+  },
+  {
+    "index": 966,
+    "rarity": "Epic",
+    "DPS": "61.2",
+    "damage": "68",
+    "fire_rate": "0.9",
+    "magazine": "5"
+  },
+  {
+    "index": 967,
+    "rarity": "Epic",
+    "DPS": "90",
+    "damage": "50",
+    "fire_rate": "1.8",
+    "magazine": "7"
+  },
+  {
+    "index": 968,
+    "rarity": "Epic",
+    "DPS": "61.2",
+    "damage": "68",
+    "fire_rate": "0.9",
+    "magazine": "5"
+  },
+  {
+    "index": 969,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 970,
+    "rarity": "Mythic",
+    "DPS": "0",
+    "damage": "45",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 971,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 972,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 973,
+    "rarity": "Mythic",
+    "DPS": "252",
+    "damage": "21",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 974,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "10"
+  },
+  {
+    "index": 975,
+    "rarity": "Rare",
+    "DPS": "50",
+    "damage": "50",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 976,
+    "rarity": "Epic",
+    "DPS": "50",
+    "damage": "50",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 977,
+    "rarity": "Mythic",
+    "DPS": "75.6",
+    "damage": "21",
+    "fire_rate": "3.6",
+    "magazine": "18"
+  },
+  {
+    "index": 978,
+    "rarity": "Rare",
+    "DPS": "33.6",
+    "damage": "60",
+    "fire_rate": "0.56",
+    "magazine": "1"
+  },
+  {
+    "index": 979,
+    "rarity": "Mythic",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "1000000"
+  },
+  {
+    "index": 980,
+    "rarity": "Mythic",
+    "DPS": "337.5",
+    "damage": "75",
+    "fire_rate": "4.5",
+    "magazine": "1000000"
+  },
+  {
+    "index": 981,
+    "rarity": "Epic",
+    "DPS": "60",
+    "damage": "75",
+    "fire_rate": "0.8",
+    "magazine": "7"
+  },
+  {
+    "index": 982,
+    "rarity": "Mythic",
+    "DPS": "1",
+    "damage": "1",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 983,
+    "rarity": "Mythic",
+    "DPS": "1",
+    "damage": "1",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 984,
+    "rarity": "Mythic",
+    "DPS": "40",
+    "damage": "20",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 985,
+    "rarity": "Legendary",
+    "DPS": "25",
+    "damage": "25",
+    "fire_rate": "1",
+    "magazine": "4"
+  },
+  {
+    "index": 986,
+    "rarity": "Legendary",
+    "DPS": "50",
+    "damage": "50",
+    "fire_rate": "1",
+    "magazine": "20"
+  },
+  {
+    "index": 987,
+    "rarity": "Rare",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 988,
+    "rarity": "Epic",
+    "DPS": "79",
+    "damage": "79",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 989,
+    "rarity": "Legendary",
+    "DPS": "83",
+    "damage": "83",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 990,
+    "rarity": "Mythic",
+    "DPS": "86",
+    "damage": "86",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 991,
+    "rarity": "Rare",
+    "DPS": "135",
+    "damage": "9",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 992,
+    "rarity": "Epic",
+    "DPS": "150",
+    "damage": "10",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 993,
+    "rarity": "Legendary",
+    "DPS": "165",
+    "damage": "11",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 994,
+    "rarity": "Mythic",
+    "DPS": "192",
+    "damage": "12",
+    "fire_rate": "16",
+    "magazine": "1000000"
+  },
+  {
+    "index": 995,
+    "rarity": "Rare",
+    "DPS": "294",
+    "damage": "98",
+    "fire_rate": "3",
+    "magazine": "2"
+  },
+  {
+    "index": 996,
+    "rarity": "Mythic",
+    "DPS": "192",
+    "damage": "12",
+    "fire_rate": "16",
+    "magazine": "1000000"
+  },
+  {
+    "index": 997,
+    "rarity": "Legendary",
+    "DPS": "33",
+    "damage": "33",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 998,
+    "rarity": "Common",
+    "DPS": "0",
+    "damage": "40",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 999,
+    "rarity": "Uncommon",
+    "DPS": "0",
+    "damage": "40",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1000,
+    "rarity": "Rare",
+    "DPS": "0",
+    "damage": "40",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1001,
+    "rarity": "Epic",
+    "DPS": "0",
+    "damage": "42",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1002,
+    "rarity": "Legendary",
+    "DPS": "0",
+    "damage": "44",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1003,
+    "rarity": "Mythic",
+    "DPS": "0",
+    "damage": "46",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1004,
+    "rarity": "Common",
+    "DPS": "105",
+    "damage": "105",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 1005,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1006,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1007,
+    "rarity": "Legendary",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1008,
+    "rarity": "Legendary",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1009,
+    "rarity": "Rare",
+    "DPS": "33.6",
+    "damage": "60",
+    "fire_rate": "0.56",
+    "magazine": "1"
+  },
+  {
+    "index": 1010,
+    "rarity": "Common",
+    "DPS": "0",
+    "damage": "60",
+    "fire_rate": "0",
+    "magazine": "0"
+  },
+  {
+    "index": 1011,
+    "rarity": "Common",
+    "DPS": "0",
+    "damage": "60",
+    "fire_rate": "0",
+    "magazine": "0"
+  },
+  {
+    "index": 1012,
+    "rarity": "Uncommon",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1013,
+    "rarity": "Epic",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 1014,
+    "rarity": "Epic",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 1015,
+    "rarity": "Mythic",
+    "DPS": "75",
+    "damage": "75",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 1016,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "2"
+  },
+  {
+    "index": 1017,
+    "rarity": "Epic",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 1018,
+    "rarity": "Legendary",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "4"
+  },
+  {
+    "index": 1019,
+    "rarity": "Mythic",
+    "DPS": "182",
+    "damage": "28",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 1020,
+    "rarity": "Mythic",
+    "DPS": "45",
+    "damage": "60",
+    "fire_rate": "0.75",
+    "magazine": "2"
+  },
+  {
+    "index": 1021,
+    "rarity": "Mythic",
+    "DPS": "159.1",
+    "damage": "37",
+    "fire_rate": "4.3",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1022,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1023,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1024,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1025,
+    "rarity": "Mythic",
+    "DPS": "0",
+    "damage": "45",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1026,
+    "rarity": "Mythic",
+    "DPS": "0",
+    "damage": "45",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1027,
+    "rarity": "Mythic",
+    "DPS": "142.5",
+    "damage": "30",
+    "fire_rate": "4.75",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1028,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1029,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1030,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1031,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1032,
+    "rarity": "Mythic",
+    "DPS": "0",
+    "damage": "45",
+    "fire_rate": "0",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1033,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1034,
+    "rarity": "Mythic",
+    "DPS": "330",
+    "damage": "110",
+    "fire_rate": "3",
+    "magazine": "0"
+  },
+  {
+    "index": 1035,
+    "rarity": "Rare",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1036,
+    "rarity": "Rare",
+    "DPS": "19",
+    "damage": "19",
+    "fire_rate": "1",
+    "magazine": "5"
+  },
+  {
+    "index": 1037,
+    "rarity": "Common",
+    "DPS": "155",
+    "damage": "25",
+    "fire_rate": "6.2",
+    "magazine": "45"
+  },
+  {
+    "index": 1038,
+    "rarity": "Uncommon",
+    "DPS": "167.4",
+    "damage": "27",
+    "fire_rate": "6.2",
+    "magazine": "45"
+  },
+  {
+    "index": 1039,
+    "rarity": "Rare",
+    "DPS": "173.6",
+    "damage": "28",
+    "fire_rate": "6.2",
+    "magazine": "45"
+  },
+  {
+    "index": 1040,
+    "rarity": "Epic",
+    "DPS": "179.8",
+    "damage": "29",
+    "fire_rate": "6.2",
+    "magazine": "45"
+  },
+  {
+    "index": 1041,
+    "rarity": "Legendary",
+    "DPS": "192.2",
+    "damage": "31",
+    "fire_rate": "6.2",
+    "magazine": "45"
+  },
+  {
+    "index": 1042,
+    "rarity": "Mythic",
+    "DPS": "198.4",
+    "damage": "32",
+    "fire_rate": "6.2",
+    "magazine": "45"
+  },
+  {
+    "index": 1043,
+    "rarity": "Uncommon",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1044,
+    "rarity": "Uncommon",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1045,
+    "rarity": "Common",
+    "DPS": "30.4",
+    "damage": "32",
+    "fire_rate": "0.95",
+    "magazine": "5"
+  },
+  {
+    "index": 1046,
+    "rarity": "Uncommon",
+    "DPS": "32.3",
+    "damage": "34",
+    "fire_rate": "0.95",
+    "magazine": "5"
+  },
+  {
+    "index": 1047,
+    "rarity": "Mythic",
+    "DPS": "42.75",
+    "damage": "45",
+    "fire_rate": "0.95",
+    "magazine": "5"
+  },
+  {
+    "index": 1048,
+    "rarity": "Rare",
+    "DPS": "165",
+    "damage": "11",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1049,
+    "rarity": "Rare",
+    "DPS": "165",
+    "damage": "11",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1050,
+    "rarity": "Epic",
+    "DPS": "180",
+    "damage": "12",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1051,
+    "rarity": "Legendary",
+    "DPS": "180",
+    "damage": "12",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1052,
+    "rarity": "Mythic",
+    "DPS": "195",
+    "damage": "13",
+    "fire_rate": "15",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1053,
+    "rarity": "Uncommon",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1054,
+    "rarity": "Mythic",
+    "DPS": "182",
+    "damage": "28",
+    "fire_rate": "6.5",
+    "magazine": "30"
+  },
+  {
+    "index": 1055,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 1056,
+    "rarity": "Rare",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 1057,
+    "rarity": "Mythic",
+    "DPS": "90",
+    "damage": "45",
+    "fire_rate": "2",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1058,
+    "rarity": "Mythic",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 1059,
+    "rarity": "Epic",
+    "DPS": "125.4",
+    "damage": "19",
+    "fire_rate": "6.6",
+    "magazine": "15"
+  },
+  {
+    "index": 1060,
+    "rarity": "Uncommon",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1061,
+    "rarity": "Common",
+    "DPS": "19",
+    "damage": "19",
+    "fire_rate": "1",
+    "magazine": "1"
+  },
+  {
+    "index": 1062,
+    "rarity": "Common",
+    "DPS": "74.4",
+    "damage": "31",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 1063,
+    "rarity": "Common",
+    "DPS": "161",
+    "damage": "23",
+    "fire_rate": "7",
+    "magazine": "60"
+  },
+  {
+    "index": 1064,
+    "rarity": "Common",
+    "DPS": "74.4",
+    "damage": "31",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 1065,
+    "rarity": "Common",
+    "DPS": "74.4",
+    "damage": "31",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 1066,
+    "rarity": "Common",
+    "DPS": "74.4",
+    "damage": "31",
+    "fire_rate": "2.4",
+    "magazine": "20"
+  },
+  {
+    "index": 1067,
+    "rarity": "Mythic",
+    "DPS": "1",
+    "damage": "1",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 1068,
+    "rarity": "Epic",
+    "DPS": "70",
+    "damage": "70",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1069,
+    "rarity": "Mythic",
+    "DPS": "1",
+    "damage": "1",
+    "fire_rate": "1",
+    "magazine": "3"
+  },
+  {
+    "index": 1070,
+    "rarity": "Epic",
+    "DPS": "117",
+    "damage": "39",
+    "fire_rate": "3",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1071,
+    "rarity": "Mythic",
+    "DPS": "48.3",
+    "damage": "69",
+    "fire_rate": "0.7",
+    "magazine": "3"
+  },
+  {
+    "index": 1072,
+    "rarity": "Rare",
+    "DPS": "42",
+    "damage": "60",
+    "fire_rate": "0.7",
+    "magazine": "3"
+  },
+  {
+    "index": 1073,
+    "rarity": "Epic",
+    "DPS": "44.1",
+    "damage": "63",
+    "fire_rate": "0.7",
+    "magazine": "3"
+  },
+  {
+    "index": 1074,
+    "rarity": "Legendary",
+    "DPS": "46.2",
+    "damage": "66",
+    "fire_rate": "0.7",
+    "magazine": "3"
+  },
+  {
+    "index": 1075,
+    "rarity": "Mythic",
+    "DPS": "48.3",
+    "damage": "69",
+    "fire_rate": "0.7",
+    "magazine": "3"
+  },
+  {
+    "index": 1076,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1077,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1078,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1079,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1080,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1081,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1082,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1083,
+    "rarity": "Mythic",
+    "DPS": "72.1",
+    "damage": "103",
+    "fire_rate": "0.7",
+    "magazine": "8"
+  },
+  {
+    "index": 1084,
+    "rarity": "Rare",
+    "DPS": "200",
+    "damage": "100",
+    "fire_rate": "2",
+    "magazine": "1"
+  },
+  {
+    "index": 1085,
+    "rarity": "Mythic",
+    "DPS": "5",
+    "damage": "5",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1086,
+    "rarity": "Rare",
+    "DPS": "0",
+    "damage": "60",
+    "fire_rate": "0",
+    "magazine": "0"
+  },
+  {
+    "index": 1087,
+    "rarity": "Rare",
+    "DPS": "0",
+    "damage": "60",
+    "fire_rate": "0",
+    "magazine": "0"
+  },
+  {
+    "index": 1088,
+    "rarity": "Mythic",
+    "DPS": "128",
+    "damage": "16",
+    "fire_rate": "8",
+    "magazine": "30"
+  },
+  {
+    "index": 1089,
+    "rarity": "Mythic",
+    "DPS": "128",
+    "damage": "16",
+    "fire_rate": "8",
+    "magazine": "30"
+  },
+  {
+    "index": 1090,
+    "rarity": "Epic",
+    "DPS": "181.5",
+    "damage": "33",
+    "fire_rate": "5.5",
+    "magazine": "30"
+  },
+  {
+    "index": 1091,
+    "rarity": "Common",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1092,
+    "rarity": "Mythic",
+    "DPS": "72",
+    "damage": "30",
+    "fire_rate": "2.4",
+    "magazine": "1000000"
+  },
+  {
+    "index": 1093,
+    "rarity": "Epic",
+    "DPS": "0",
+    "damage": "60",
+    "fire_rate": "0",
+    "magazine": "0"
+  },
+  {
+    "index": 1094,
+    "rarity": "Rare",
+    "DPS": "40",
+    "damage": "40",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1095,
+    "rarity": "Mythic",
+    "DPS": "252",
+    "damage": "21",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 1096,
+    "rarity": "Mythic",
+    "DPS": "252",
+    "damage": "21",
+    "fire_rate": "12",
+    "magazine": "0"
+  },
+  {
+    "index": 1097,
+    "rarity": "Legendary",
+    "DPS": "96.8",
+    "damage": "44",
+    "fire_rate": "2.2",
+    "magazine": "12"
+  },
+  {
+    "index": 1098,
+    "rarity": "Epic",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "2"
+  },
+  {
+    "index": 1099,
+    "rarity": "Epic",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "2"
+  },
+  {
+    "index": 1100,
+    "rarity": "Mythic",
+    "DPS": "100",
+    "damage": "100",
+    "fire_rate": "1",
+    "magazine": "2"
+  },
+  {
+    "index": 1101,
+    "rarity": "Mythic",
+    "DPS": "80",
+    "damage": "40",
+    "fire_rate": "2",
+    "magazine": "0"
+  },
+  {
+    "index": 1102,
+    "rarity": "Rare",
+    "DPS": "5",
+    "damage": "5",
+    "fire_rate": "1",
+    "magazine": "0"
+  },
+  {
+    "index": 1103,
+    "rarity": "Rare",
+    "DPS": "5",
+    "damage": "5",
+    "fire_rate": "1",
+    "magazine": "0"
+  }
+]
